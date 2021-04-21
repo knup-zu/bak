@@ -2,9 +2,10 @@
 <layoutype>thumbnail</layoutype>
 
 
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2WZ2GQLH53D7QKJ3ZX6BOL6QXWVJBE6M&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.Supergirl.S06E01.1080p.WEB-DL.DUAL.COMANDO.TO</link>
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2WZ2GQLH53D7QKJ3ZX6BOL6QXWVJBE6M&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.Supergirl.S06E01.1080p.WEB-DL.DUAL.COMANDO.TO$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04d6db49cb67bb0620f555409602087b7917e970&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.Supergirl.S06E02.1080p.WEB-DL.DUAL.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/295759/tvposter/supergirl-55b43d56e7acf.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/295759/tvthumb/supergirl-58bd3db9eb77d.jpg</fanart>
-</item> 
+</item>
