@@ -1,14 +1,3 @@
-<item>
-<title>[B][COLOR white]O Roubo do Século - [/COLOR][/B][B][COLOR lime]Legendado[/COLOR][/B][B][COLOR white] - HDCAM[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FB1EDFF2521CB43D9C50DC0A650BF1C9A8D712BB&dn=El.robo.del.siglo.2020.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7fbWhM5pvoAvUcctDgUWTlLHJ5P.jpg</thumbnail>
-<fanart>https://ovicio.com.br/wp-content/uploads/2020/03/20200305-roubo12.jpg</fanart>
-<info>
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em 2006, um grupo de ladrões realizou o que é considerado um dos assaltos a bancos mais famosos e inteligentes da história da Argentina quando assaltaram a agência do Banco Río em Acassuso.[/B][/COLOR]
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia,Crime[/B][/COLOR] 
-[COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
-</info>
-</item>
 
 <item> 
 <title>[COLOR white][B]O Grande Mestre 4: A Batalha Final[/B][/COLOR]</title> 
@@ -67,6 +56,18 @@
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Documentário[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Este documentário segue uma equipe de arqueólogos enquanto eles desenterram artefatos incríveis em uma tumba antiga não descoberta em Sacará, Egito.[/B][/COLOR]
+</info>
+</item>
+
+<item>
+<title>[B][COLOR white]O Roubo do Século - [/COLOR][/B][B][COLOR lime]Legendado[/COLOR][/B][B][COLOR white] - HDCAM[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FB1EDFF2521CB43D9C50DC0A650BF1C9A8D712BB&dn=El.robo.del.siglo.2020.720p.WEBRip.Legendado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7fbWhM5pvoAvUcctDgUWTlLHJ5P.jpg</thumbnail>
+<fanart>https://ovicio.com.br/wp-content/uploads/2020/03/20200305-roubo12.jpg</fanart>
+<info>
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em 2006, um grupo de ladrões realizou o que é considerado um dos assaltos a bancos mais famosos e inteligentes da história da Argentina quando assaltaram a agência do Banco Río em Acassuso.[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia,Crime[/B][/COLOR] 
+[COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
 </info>
 </item>
 
