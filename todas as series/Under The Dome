@@ -1,0 +1,16 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0bae6f0198310b9cfd72772f798df5192d3c5a1&dn=Under+The+Dome+1+Temporada+%282013%29+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+<thumbnail>https://fanart.tv/fanart/tv/264492/seasonposter/under-the-dome-53de37dfec690.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/264492/showbackground/under-the-dome-51d073b86498a.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d240c30481f0a43b8b53a063ccfa9ba9adf50a45</link>
+<thumbnail>https://fanart.tv/fanart/tv/264492/seasonposter/under-the-dome-53de380ce0733.jpg</thumbnail>
+<fanart></fanart>
+</item>
