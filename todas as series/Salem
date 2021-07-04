@@ -1,0 +1,24 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d15cdb3b8328c389c5689cc9d1bb85aa6f886854</link>
+<thumbnail>http://imagem.band.com.br/f_283767.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-dehoGgsFd1U/WCbh8tJRAfI/AAAAAAAAJqU/pA6QaBbZjw8K3mU0HYEDWe-xcVzpSIo3ACLcB/s1600/Salem-Season-1-salem-tv-series-38034387-1280-800.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbf79df69fc72a91f3d58001fd7fcf035b669011</link>
+<thumbnail>https://fanart.tv/fanart/tv/274897/seasonposter/salem-53e5237e6dff0.jpg</thumbnail>
+<fanart>https://noticiasdezallar.files.wordpress.com/2015/04/210.jpg?w=740&h=494</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e6afc300873bb35fec87635b04557c03e36f8bf$nome=[COLOR white][B]1° ao 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c03b30567f5a5177b00001d61a305b185033d056$nome=[COLOR white][B]5° ao 10° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/274897/seasonposter/salem-561b6f90d87a9.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-ZRFT8s-tsLI/VCn4zRy4e2I/AAAAAAAAEkQ/ujtEohIebmg/s1600/salem-tv-series.jpg</fanart>
+</item>
