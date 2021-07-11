@@ -2741,7 +2741,8 @@
 
 <item>
 <title>[B][COLOR white]Viúva Negra[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM&dn=COMOEUBAIXO.COM..MKV.Vi%C3%BAva%20Negra%202021%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LSDQ5MDLYPDTT5NLK7ZHYDL6THSW2SMM$nome=[COLOR white][B]Torrent[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/189d4b_65166edd63bf405a8dbfea6350105841/720p/mp4/file.mp4$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg</thumbnail>
 <fanart>https://cinepop.com.br/wp-content/uploads/2021/03/viuvanegra_23.jpg</fanart>
 <info>
