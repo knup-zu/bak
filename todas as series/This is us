@@ -1,0 +1,39 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:794a41b709e8b525704462a5e9b892f526e65a50$nome=[COLOR white][B]1° ao 7° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281c4a117624468d85408b756f7abd6615aea492$nome=[COLOR white][B]8° ao 18° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/311714/tvposter/this-is-us-58023584af43e.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/311714/showbackground/this-is-us-580cd09ed4556.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2028eca14766f88b171ad6b8505a3ba626f1b9ec$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57139664f2d07f429a9ff1f0bdd0bb33223f73a6$nome=[COLOR white][B]3° e 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6965f397bafabf095fb2625d6eda2bdb912c72d3$nome=[COLOR white][B]5° e 6° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ceb52fcf89eedd1fecd2767dc00da05b310fad3$nome=[COLOR white][B]7° e 8° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9545f2c31009f2a8a34c5a336e0e3b154784999c$nome=[COLOR white][B]9° e 10° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22984f02e2ab36dc24504b64922b32d9524211bb$nome=[COLOR white][B]11° e 12° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19fb68e58ea6653cd4e45add8e4d11de63842e5f$nome=[COLOR white][B]13° e 14° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1be78fb37373a4ed842070fa5837b7f9632fe548$nome=[COLOR white][B]15° e 16° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cdbbc187e0a3c8cb51c6c7be708a5f4dd90ec49$nome=[COLOR white][B]17° e 18° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/311714/tvposter/this-is-us-59ae1152e7192.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/311714/tvthumb/this-is-us-5d867cbc18fac.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bd15f4d6c3c58dab08962968ac018d9cb627ac8</link>
+<thumbnail>https://fanart.tv/fanart/tv/311714/tvposter/this-is-us-5c4cbb21bbd01.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/311714/tvthumb/this-is-us-5bb33e4bac01e.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B4ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5330447879b3337002bdf3443e5113190de8767a</link>
+<thumbnail>https://fanart.tv/fanart/tv/311714/tvposter/this-is-us-5d867d7ccfc60.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/311714/tvthumb/this-is-us-5d867cbc18fac.jpg</fanart>
+</item>
