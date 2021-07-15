@@ -2491,7 +2491,7 @@
 
 <item>
 <title>[B][COLOR white]Sincrônico[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa8ac9e2359e830edb645f95f29f62ca0126aa17$nome=[COLOR white][B]Torrent[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa8ac9e2359e830edb645f95f29f62ca0126aa17</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sGJfkoYhe1DJeUhhlYbAIKwHsnO.jpg</thumbnail>
 <fanart>https://ibcdn.canaltech.com.br/xPvvYB_gIvwL5b2XW167IvQyGKo=/70x290:1311x988/1241x698/smart/i6830.jpeg</fanart>
 <info>
