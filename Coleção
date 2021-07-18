@@ -457,7 +457,7 @@
 
 <item> 
 <title>[COLOR white][B]O Poderoso Chefão[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51e9d1b5be8d61e2603f8d00aa70d66318856a20$nome=[B][COLOR white]O Poderoso Chefão Parte 1 [B][COLOR green]1972[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51e9d1b5be8d61e2603f8d00aa70d66318856a20$nome=[B][COLOR white]O Poderoso Chefão Parte 1 [B][COLOR ]1972[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d576de20e1e7beff4f1dcaab1179eeb476ff28c$nome=[B][COLOR white]O Poderoso Chefão Parte 2 [B][COLOR green]1974[/COLOR][/B]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9b7ce524d1c6f17b214fc64e95776bb9e616f9b$nome=[B][COLOR white]O Poderoso Chefão Parte 3 [B][COLOR green]1990[/COLOR][/B]</link>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg</thumbnail>
@@ -465,6 +465,7 @@
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]1972 a 1990[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Crime[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]O Poderoso Chefão[/B][/COLOR]
+</info>
 </item>
 
 
