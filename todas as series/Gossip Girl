@@ -1,9 +1,10 @@
-<layoutype>thumbnail</layoutype>
+	<layoutype>thumbnail</layoutype>
 
 <item> 
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bd4dffe881e09f8cfa521ae242a4e9b3b3b89161$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d21aee3aa86ae93fbee6560bf5a560f3accaec4f$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TKBX2Z7JAW25IVIGL5BYEALK6FIUSJYF$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/es3mkwOXIQ5s72jEDCmzstmYryE.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/degHe3BrOS74SSlEa51Sicgwqqc.jpg</fanart>
 </item>
