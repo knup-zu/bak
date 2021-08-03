@@ -3,21 +3,14 @@
 
 <item>
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db9f07de725b2968fc489c3a0115ea5382221131</link>
+<thumbnail>https://fanart.tv/fanart/tv/328599/seasonposter/krypton-5e26de338a1d1.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/328599/showbackground/krypton-5d050d3ed5ac0.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fea36697cdb8652bdab491b1728adebfe28d5fc4</link>
+<thumbnail>https://fanart.tv/fanart/tv/328599/seasonposter/krypton-5e26de46a8d4f.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/328599/showbackground/krypton-5a83799546f44.jpg</fanart>
 </item>
