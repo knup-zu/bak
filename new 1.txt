@@ -1,0 +1,95 @@
+
+<channels><channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]nome[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/</externallink>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]Abc[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2015[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Docume[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
+</info>
+</channels></channel>
+
+_________________________________________________________________________________
+
+<item> 
+<title>[COLOR white][B]nome[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+</info>
+</item>
+______________________________________________________________________________
+
+<item> 
+<title>[COLOR white][B]nome[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]Torrent[/B][/COLOR]</link>
+<link>|Referer=https://superfilmes.tv$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B][/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+</info>
+</item>
+
+_________________________________________________________________________________
+
+
+<item>
+<title>[B][COLOR white]teste yotube[/COLOR][/B]</title>
+<utube>EfA1d2TEWqs</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia,Drama[/B][/COLOR] 
+[COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+</info>
+</item>
+
+_________________________________________________________________________________
+
+Filme Com Link Direto e torrent
+
+Aqueles Que Me Desejam a Morte
+Invocacao do mal 3
+viuva negra
+A Guerra do Amanha
+como virei um super heroi
+Rogai por Nos
+Cruella
+Mortal Kombat
+Friends:A Reunião
+Fada Madrinha
+Nasce Uma Estrela
+Rua do medo parte 3
+Space Jam o Legado
+Liga da Justiça
+Jungle Cruise
+Jolt: Fúria Fatal
+Mundo em Caos
+Dupla Explosiva 2 - E a Primeira-Dama do Crime
+O Esquadrão Suicida
+Mudança Mortal
+O Último Mercenário
+A barraca do beijo 3
+Loucos Por Justiça
+
+
+series link direto
+
+Você Nunca Esteve Sozinha cinevision
+American Horror Stories legendado cinevion 29.07 - 4 episodio
+the walking dead origens legendado cinevision 29.07
+Outer Banks Cinevision completa
+
+|Referer=https://superfilmes.tv</link>
