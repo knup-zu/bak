@@ -73,8 +73,8 @@
 
 <item> 
 <title>[COLOR white][B]11ª Temporada[/B][/COLOR] [COLOR lime][B]- Legendado[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=https://video.wixstatic.com/video/10f1ed_aad282b20c4c41cc8cb8f42527b3d5c8/720p/mp4/file.mp4$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=https://video.wixstatic.com/video/2cca5e_9fd4d460b0834d67ae6487ed7677680d/720p/mp4/file.mp4$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/10f1ed_aad282b20c4c41cc8cb8f42527b3d5c8/720p/mp4/file.mp4$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>https://video.wixstatic.com/video/2cca5e_9fd4d460b0834d67ae6487ed7677680d/720p/mp4/file.mp4$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wsq1xCuC9kDhFeoE7xuQFDC5iRC.jpg</thumbnail>
 <fanart>https://sm.ign.com/ign_br/screenshot/default/the-walking-dead_1wj9.jpg</fanart>
 </item>
