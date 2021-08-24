@@ -73,7 +73,8 @@
 
 <item> 
 <title>[COLOR white][B]11ª Temporada[/B][/COLOR] [COLOR lime][B]- Legendado[/B][/COLOR]</title> 
-<link>https://video.wixstatic.com/video/10f1ed_aad282b20c4c41cc8cb8f42527b3d5c8/720p/mp4/file.mp4</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.elementum/play?uri=https://video.wixstatic.com/video/10f1ed_aad282b20c4c41cc8cb8f42527b3d5c8/720p/mp4/file.mp4$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=https://video.wixstatic.com/video/2cca5e_9fd4d460b0834d67ae6487ed7677680d/720p/mp4/file.mp4$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<thumbnail>https://ondebaixa.com/imagens/the-walking-dead-11-temporada-legendada-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>https://sm.ign.com/ign_br/screenshot/default/the-walking-dead_1wj9.jpg</fanart>
 </item>
