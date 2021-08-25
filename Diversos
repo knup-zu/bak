@@ -230,7 +230,7 @@
 
 <item> 
 <title>[COLOR white][B]Capitão América: O Primeiro Vingador[/B][/COLOR]</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0eba52ab6eee873bd0feffcd414078dcc6eed97$nome=[COLOR white][B]Torrent[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0eba52ab6eee873bd0feffcd414078dcc6eed97	$nome=[COLOR white][B]Torrent[/B][/COLOR]</link>
 <link>https://cdn4.ntcdn.stream/prop/httpdelivery/filmes/p1/4762873capito-amrica-o-primeiro-vingador.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg</fanart>
@@ -651,6 +651,19 @@
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Um fixador de automóveis salta escadas após a demolição ilegal. Policial tenta encontrar o crime e pegar o chefe do mal.[/B][/COLOR]
 </info>
 </item>
+
+<item> 
+<title>[COLOR white][B]O Juiz[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4AAZVKZSG2RDG52VPRZNBQLHJ5ZA5FN&dn=O+Juiz+%281995%29+BRrip+Blu-Ray+720p+Dublado+-+DAT2015&tr=udp://tracker.openbittorrent.com:80/announce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j4zDPQgyKMqwER5xJPoJK8ymTdw.jpg</thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]1995[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ficção científica[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]No terceiro milênio, o mundo mudou. O clima, as nações, tudo entrou em revolta e o planeta se transformou em um deserto insalubre e desolado, conhecido como A Terra Maldita. Milhões de pessoas habitavam as escassas megacidades, onde bandos errantes e selvagens urbanos geravam tamanha violência que o sistema judiciário não podia controlá-los. A lei como conhecemos entrou em colapso.[/B][/COLOR]
+</info>
+</item>
+
 
 <item> 
 <title>[COLOR white][B]O Rei Do Show[/B][/COLOR]</title> 
