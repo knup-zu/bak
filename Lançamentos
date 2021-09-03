@@ -107,17 +107,6 @@ ________________________________________________________________________________
 </info>
 
 
-<item>
-<title>[B][COLOR white]12 Órfãos Poderosos[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFZ5BRT7T6V5A767MD3LUKJ3GWRFKTJI</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg</thumbnail>
-<fanart>https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/09/12orfaospoderosos.jpg?fit=640%2C360&ssl=1</fanart>
-<info>
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Assombrado pelo seu misterioso passado, um dedicado treinador de futebol de liceu lidera uma esquelética equipa de órfãos para o campeonato estatal durante a Grande Depressão e inspira ao longo do caminho uma nação destroçada.[/B][/COLOR]
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]História,Drama[/B][/COLOR] 
-[COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
-</info>
-</item>
 
 <item>
 <title>[B][COLOR white]2067[/COLOR][/B]</title>
@@ -130,6 +119,19 @@ ________________________________________________________________________________
 [COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
 </info>
 </item>
+
+<item>
+<title>[B][COLOR white]12 Órfãos Poderosos[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFZ5BRT7T6V5A767MD3LUKJ3GWRFKTJI</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg</thumbnail>
+<fanart>https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2021/09/12orfaospoderosos.jpg?fit=640%2C360&ssl=1</fanart>
+<info>
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Assombrado pelo seu misterioso passado, um dedicado treinador de futebol de liceu lidera uma esquelética equipa de órfãos para o campeonato estatal durante a Grande Depressão e inspira ao longo do caminho uma nação destroçada.[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]História,Drama[/B][/COLOR] 
+[COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+</info>
+</item>
+
 
 <item>
 <title>[B][COLOR white]A Arte de Ser Adulto[/COLOR][/B]</title>
