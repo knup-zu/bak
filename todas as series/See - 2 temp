@@ -1,10 +1,16 @@
 <layoutype>thumbnail</layoutype>
 
 
-<item> 
-<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WSVCDCY467VEHEOKNKBHIZ7X6OJUI4XR$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01 	-[/B][/COLOR]  [COLOR lime][B]Irmãos e Irmãs[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WSVCDCY467VEHEOKNKBHIZ7X6OJUI4XR</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8kvIPkSrmcqTKCrXO8aUY5uF0l.jpg</thumbnail>
+<fanart>https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/07/30/964973231-see-jason-momoa-dave-bautista.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02 -[/B][/COLOR]  [COLOR lime][B]Para sempre[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e8kvIPkSrmcqTKCrXO8aUY5uF0l.jpg</thumbnail>
 <fanart>https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/07/30/964973231-see-jason-momoa-dave-bautista.jpg</fanart>
 </item>
