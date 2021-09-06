@@ -3,8 +3,7 @@
 
 <item>
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d432f22f0b9f2eb80149b15a617ca19d0b3de7$nome=[COLOR white][B]720P[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:554b2edbda72af868d90c105f2c0b3bc58251bec$nome=[COLOR white][B]1080P[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59d432f22f0b9f2eb80149b15a617ca19d0b3de7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwkJxpja51EJBNQ7qZRJfAMrS9c.jpg</thumbnail>
 <fanart>https://cdn.ome.lt/06OUsQ2pbsZ0DW3tz9Bmk2HBc8Q=/1200x630/smart/extras/conteudos/irmandade_Hlk3Lao.png</fanart>
 </item>
