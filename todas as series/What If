@@ -1,0 +1,11 @@
+<layoutype>thumbnail</layoutype>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:653b329bf000df83c97ce2cd5bbad96bb9218dd9$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0342d7ed5b2d2221a1cad5d14c23d625d788efb5$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdc2eed027adc16e50012c7e50ddc02220949ad0$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a93105ca11e19a24e187c0d4403ab89787fb501$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/367147/seasonposter/what-if-611534d0e440f.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/367147/showbackground/marvels-what-if-610992bfd8b0c.jpg</fanart>
+</item>
