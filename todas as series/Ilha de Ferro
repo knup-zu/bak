@@ -1,0 +1,16 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31cd81330f359ef6931675670fe0bcd74e1531d3</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_858128-MLB32149903891_092019-O.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/b-UZrTCgcy8/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddb8654ba5bca0f557e7b31de3dfb9f1b0cce4c3</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/20/05/11/17/41/0058138.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/f90b3iXfh9o/maxresdefault.jpg</fanart>
+</item>
