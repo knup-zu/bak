@@ -64,9 +64,16 @@
 <fanart>https://i.ytimg.com/vi/qEBEMLSMaq4/maxresdefault.jpg</fanart>
 </item>
 
- <item>
+<item>
 <title>[COLOR white][B]EPISÓDIO -> 10[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KJT5UDE6BHEEINEK3SMFYCBVFXEFQIDS&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.Riverdale.S05e10.1080p.WEB.DUAL.COMANDO.TO</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/qEBEMLSMaq4/maxresdefault.jpg</fanart>
+</item>
+ 
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 11 ao 14[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:179cd6e8ef9fa012bc2bae1c4372bb6f48f2b73d&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.Riverdale.S05e11-14.720p.WEB.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/18/09/06/10/23/3151996.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/qEBEMLSMaq4/maxresdefault.jpg</fanart>
 </item>
