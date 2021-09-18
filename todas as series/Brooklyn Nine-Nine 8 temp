@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09e5be102db992843c52df58efef84f7012b4406&dn=COMOEUBAIXO.COM.-DUBLADO-DUAL-AUDIO-.Brooklyn.Nine-Nine.S08E01.1080p.WEBRip.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce</link>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09e5be102db992843c52df58efef84f7012b4406$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2UX2IXCV5APODGZKEK7XENSO2ZJEJR3Z$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/269586/tvposter/brooklyn-nine-nine-60773f3477c1b.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/269586/tvthumb/brooklyn-nine-nine-60773f4c0a2ca.jpg</fanart>
 </item>
