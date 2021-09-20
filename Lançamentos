@@ -11,8 +11,9 @@
 </item>
 
 <item> 
-<title>[COLOR white][B]O Homem nas Trevas 2[/B][/COLOR]</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd1926b4c6a366a39a5e6751c7628c39572be03</link>
+<title>[COLOR white][B]O Homem nas Trevas 1 e 2[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94547b9707409df8f90eb5f939f50d422af960e1$nome=[COLOR white][B]O Homem nas Trevas 1[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4dd1926b4c6a366a39a5e6751c7628c39572be03$nome=[COLOR white][B]O Homem nas Trevas 2[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gkUpFnh5lRsDDA15u6IYsd08b2p.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/MJOFRpS86cc/maxresdefault.jpg</fanart>
 <info>
