@@ -1,0 +1,21 @@
+<layoutype>thumbnail</layoutype>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2048c8f7b85fd5fe3a5dc56d9baaaf1509d3a0b1$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a052a138e9585cc711848338b7fae575196c7ac$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b775368acc48f613665935d540353a0abfbe945$nome=[COLOR white][B]3° e 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:757961678f0382eae8fffbadf556ce4b2c02440f$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e1c7538f7e4070567d053aa1e478560d0b9ad93$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a615a2df63e9304ee4e22066d80ca65d89f65a8e$nome=[COLOR white][B]7° e 8° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09B3EF6FB0DB23290C629C78A30B482DC076AF0C$nome=[COLOR white][B]9° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/361563/seasonposter/the-morning-show-5dc81bd1cf5cd.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/361563/tvthumb/the-morning-show-5d81f3e60065a.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UBL6MFL2AHAMKU47MHGSY77BZ7YWGBN6</link>
+<thumbnail>https://fanart.tv/fanart/tv/361563/seasonposter/the-morning-show-614c2f9806b1a.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/361563/showbackground/the-morning-show-5e2d4aa319d88.jpg</fanart>
+</item>
