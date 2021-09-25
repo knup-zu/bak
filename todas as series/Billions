@@ -30,9 +30,11 @@
 <fanart>https://fanart.tv/fanart/tv/279536/tvthumb/billions-58a9d6b10eecc.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]5ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb4c0bdbfccbd1902731f32f32585ca13b227ac1</link>
+<item> 
+<title>[COLOR white][B]5ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb4c0bdbfccbd1902731f32f32585ca13b227ac1$nome=[COLOR white][B]1° ao 7° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5991d02aea92f9fcecfa0fc5f15ddf5b36d502c$nome=[COLOR white][B]8° e 9° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cec14cefa94b61eceb3fb8158f66bf7e6f69070$nome=[COLOR white][B]10° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/279536/tvposter/billions-5c6f1a9ba3137.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/279536/tvthumb/billions-58a9d6b10eecc.jpg</fanart>
 </item>
