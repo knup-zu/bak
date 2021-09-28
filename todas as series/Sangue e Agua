@@ -1,0 +1,16 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf39df2d296d2d6408df28f8e6396fe3f6248d71</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jzhVUKDIX0fikdDOyRYjdTDyUcu.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/nqtZmVo3bleZPC2L974hz1S2hJ3.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b9ce129aa9d3c503c8db9d30484f8b3354a7daa</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wYy8XSYQQAjgTT98qkR3WkeVsen.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/nqtZmVo3bleZPC2L974hz1S2hJ3.jpg</fanart>
+</item>
