@@ -1,0 +1,11 @@
+<layoutype>thumbnail</layoutype>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3acc2bf7e7488299d7565b3e103b6d77a4bbf8f$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:717bf9405889d1bdff45af3c59b19f88243ed7d5$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72da3c23b8a8412b51bd61b9cb9f3f8df287adfe$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b45885bb01b30ed4768d1e8796ba564b51c4aee$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LRBmkkpy98WVBDdfpwl2vwqdnP.jpg</thumbnail>
+<fanart>https://p2.trrsf.com/image/fget/cf/600/400/images.terra.com/2021/08/28/1946998940-poster-doogie-kamealoha-md-825x1024-1.jpg</fanart>
+</item>
