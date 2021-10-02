@@ -11,6 +11,18 @@
 </item>
 
 <item> 
+<title>[COLOR white][B]nome[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3YJFAMLYSD2BOGOKO3THNOR7OIY2WU7S</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+</info>
+</item>
+
+<item> 
 <title>[COLOR white][B]Diana: O Musical[/B][/COLOR] [COLOR lime][B]- Legendado[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e675302a2b51ecb54f5b3f17257b513a60aa400</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kpMTlCDyDJptBQg935Q9LzaB9j8.jpg</thumbnail>
