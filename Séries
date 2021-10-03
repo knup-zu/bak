@@ -2428,15 +2428,15 @@
 </channels></channel>
 
 <channels><channel>
-<name>[COLOR green]•[/COLOR][COLOR white][B]Expresso Do Amanhã[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Expresso%20Do%20Amanh%C3%A3</externallink>
-<fanart>https://fanart.tv/fanart/tv/364928/tvthumb/snowpiercer-5eb5a57299433.jpg</fanart>
+<name>[COLOR green]•[/COLOR][COLOR white][B]Evil: Contatos Sobrenaturais[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2gyQRudrRU276fvkXMq4JNq3hzB.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/363955/tvthumb/evil-5d7f75052d33e.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Evil</externallink>
 <info>
-[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]TNT[/B][/COLOR] 
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR] 
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ficção Científica[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]A Terra congelou. Os últimos sobreviventes vivem em um trem que viaja pelo mundo e se esforçam para manter uma complexa coexistência a bordo.[/B][/COLOR]
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]CBS,Paramount+[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2019[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Uma psicóloga cética e um padre em formação investigam mistérios que envolvem a Igreja Católica, dentre eles posses demoníacas, espíritos e supostos milagres.[/B][/COLOR]
 [COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
 </info>
 </channels></channel>
@@ -2455,6 +2455,19 @@
 </info>
 </channels></channel>
 
+<channels><channel>
+<name>[COLOR green]•[/COLOR][COLOR white][B]Expresso Do Amanhã[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7AoS6Oez4C3z8wRnQVHYLwhY3FX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Expresso%20Do%20Amanh%C3%A3</externallink>
+<fanart>https://fanart.tv/fanart/tv/364928/tvthumb/snowpiercer-5eb5a57299433.jpg</fanart>
+<info>
+[COLOR green][B]Emissora:[/B][/COLOR] [COLOR white][B]TNT[/B][/COLOR] 
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR] 
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ficção Científica[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]A Terra congelou. Os últimos sobreviventes vivem em um trem que viaja pelo mundo e se esforçam para manter uma complexa coexistência a bordo.[/B][/COLOR]
+[COLOR green][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
+</info>
+</channels></channel>
 
 <channels><channel>
 <name>[COLOR green]•[/COLOR][COLOR white][B]Exterminadores do Além[/B][/COLOR]</name>

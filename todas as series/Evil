@@ -1,0 +1,27 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8406719585f4fe4954e764716efddbcb3d283a09$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:889a5c48f5a7356f158881a59ca99c6e76e19c6e$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:482f9e7b634bcc2760df3966e21e1cfebc8fbbc7$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb065f0aa81f7f0f51ec20c7b33134ff4e1ca1f9$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81cae57683a35277b791b186cc0a052fbda9c016$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d1980308f95cb76397255f9bae24276d8a61ec5$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80828b1a2ac2af557dba0615c651b003bf71f481$nome=[COLOR white][B]7° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37cfa64e3ab9aee15804785aadde7903ce639fb1$nome=[COLOR white][B]8° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73c7e57887d4a89337b7586d1c6cbdc8b0b11fe6$nome=[COLOR white][B]9° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:637f5d7ee8ea23c331c6160df0cdfea1fd7a09ef$nome=[COLOR white][B]10° e 11° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da3b8088e54e030cb946c38a21bdf655454af3ae$nome=[COLOR white][B]12° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fef752264f9bdd22f62b1481cb90d80912c6ff70$nome=[COLOR white][B]13° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/363955/tvposter/evil-5d8132c316d66.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/363955/seasonthumb/evil-5da4307986e52.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca5884bf48ee828acca2d992f43c6d5d91f436c9</link>
+<thumbnail>https://fanart.tv/fanart/tv/363955/seasonposter/evil-614e47ca6fad6.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/363955/tvthumb/evil-614e487ab80c0.jpg</fanart>
+</item>
