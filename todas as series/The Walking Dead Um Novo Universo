@@ -2,15 +2,15 @@
 
 <item> 
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f5e7e09e82606996dea87c52f72193b65f7e670$nome=[COLOR white][B]1° Episódio -[/B][/COLOR] [COLOR green][B]Bravo[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f2f9f8d5aa59594d85281e89346f3d6badfba8b$nome=[COLOR white][B]2° Episódio -[/B][/COLOR] [COLOR green][B]O fogo de Gory[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc212e7e5c36c61073c5d809622ec8fb38a17a7$nome=[COLOR white][B]3° Episódio -[/B][/COLOR] [COLOR green][B]O Tigre e o Cordeiro[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b73ff82a3d8436d34f85ad894369e51cbcfd33b$nome=[COLOR white][B]4° Episódio -[/B][/COLOR] [COLOR green][B]O Fim Errado De Um Telescópio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b9a3eff0f2a33e0929d7dce8855c32476d5a6f$nome=[COLOR white][B]5° Episódio -[/B][/COLOR] [COLOR green][B]Louco do Outro Lado da Água[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cabe1083a493cfe287f0cf8c18b1de263c7a8b3$nome=[COLOR white][B]6° Episódio -[/B][/COLOR] [COLOR green][B]Marionetas das Sombras[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4257a734dcc4d11ea309aae7640c5a1f3841f2e5$nome=[COLOR white][B]7° Episódio -[/B][/COLOR] [COLOR green][B]Verdade ou Consequência[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aab9dc0faaff56cc8003bccee84e447dd44cfbe$nome=[COLOR white][B]8° Episódio -[/B][/COLOR]  [COLOR green][B]O Céu é um Cemitério[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:102b2764c81a579fdaa061ef9c40d76fcf1215a6$nome=[COLOR white][B]9° e 10° Episódio -[/B][/COLOR] [COLOR green][B]O Corte Mais Profundo/Nesta Vida[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f5e7e09e82606996dea87c52f72193b65f7e670$nome=[COLOR white][B]1° Episódio -[/B][/COLOR] [COLOR lime][B]Bravo[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f2f9f8d5aa59594d85281e89346f3d6badfba8b$nome=[COLOR white][B]2° Episódio -[/B][/COLOR] [COLOR lime][B]O fogo de Gory[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbc212e7e5c36c61073c5d809622ec8fb38a17a7$nome=[COLOR white][B]3° Episódio -[/B][/COLOR] [COLOR lime][B]O Tigre e o Cordeiro[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b73ff82a3d8436d34f85ad894369e51cbcfd33b$nome=[COLOR white][B]4° Episódio -[/B][/COLOR] [COLOR lime][B]O Fim Errado De Um Telescópio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08b9a3eff0f2a33e0929d7dce8855c32476d5a6f$nome=[COLOR white][B]5° Episódio -[/B][/COLOR] [COLOR lime][B]Louco do Outro Lado da Água[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cabe1083a493cfe287f0cf8c18b1de263c7a8b3$nome=[COLOR white][B]6° Episódio -[/B][/COLOR] [COLOR lime][B]Marionetas das Sombras[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4257a734dcc4d11ea309aae7640c5a1f3841f2e5$nome=[COLOR white][B]7° Episódio -[/B][/COLOR] [COLOR lime][B]Verdade ou Consequência[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0aab9dc0faaff56cc8003bccee84e447dd44cfbe$nome=[COLOR white][B]8° Episódio -[/B][/COLOR]  [COLOR lime][B]O Céu é um Cemitério[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:102b2764c81a579fdaa061ef9c40d76fcf1215a6$nome=[COLOR white][B]9° e 10° Episódio -[/B][/COLOR] [COLOR lime][B]O Corte Mais Profundo/Nesta Vida[/B][/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zu2ESmRrCsZrdG1t2sPqXk9tkF.jpg</thumbnail>
 <fanart>https://miro.medium.com/max/2750/1*-ieXmcTrZfr8uQ_a2nyZ5w.png</fanart>
 </item>
