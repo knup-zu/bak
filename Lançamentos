@@ -11,6 +11,18 @@
 </item>
 
 <item> 
+<title>[COLOR white][B]nome[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B][/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+</info>
+</item>
+
+<item> 
 <title>[COLOR white][B]A Família Addams 2: Pé na Estrada[/B][/COLOR] [COLOR lime][B]- Legendado[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OT6275PC3AKAOZK356DJM7EJUDRJL2KU</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xYLBgw7dHyEqmcrSk2Sq3asuSq5.jpg</thumbnail>
