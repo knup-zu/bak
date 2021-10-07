@@ -1,8 +1,9 @@
 <layoutype>thumbnail</layoutype>
 
 <item> 
-<title>[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec47be86243af3a115309253944be8a13352ff0</link>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec47be86243af3a115309253944be8a13352ff0$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>https://edgemedia.r.worldssl.net/series/93740/1/dub/3.mp4$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/366972/seasonposter/foundation-612742daa8315.jpg</thumbnail>
 <fanart>https://cdn.mos.cms.futurecdn.net/4qd9LQxchnFXqRL4niaSMM.jpg</fanart>
 </item>
