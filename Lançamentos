@@ -11,14 +11,14 @@
 </item>
 
 <item> 
-<title>[COLOR white][B]nome[/B][/COLOR]</title>  
+<title>[COLOR white][B]Infiltrado[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
 <info>
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B][/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Crime[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.[/B][/COLOR]
 </info>
 </item>
 
@@ -2042,6 +2042,19 @@ ________________________________________________________________________________
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Depois de ser ferido na guerra, um veterano da guerra civil volta para casa, no Texas, para descobrir que agora está alistado em uma nova batalha; um por sua vida.[/B][/COLOR]
 </info>
 </item>
+
+<item> 
+<title>[COLOR white][B]Infiltrado[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ef2ozkE4AiWwRnyfc9s05sEtAIT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/70AV2Xx5FQYj20labp0EGdbjI6E.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Crime[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Harry, conhecido apenas como H, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado.[/B][/COLOR]
+</info>
+</item>
+
 
 <item>
 <title>[B][COLOR white]Infinite[/COLOR][/B]</title>
