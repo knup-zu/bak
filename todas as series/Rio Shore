@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0d8e26dee18b5a85927ca5140461792b128976d3$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f3a89c377eed240ca2b9715fa4e19636dec9754$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7TK7VoNV0xOk8FUcYD8kThBFMTy.jpg</thumbnail>
+<fanart>https://bolavip.com/__export/1632240635156/sites/bolavip/img/2021/09/21/rio-shore-1_1.jpg_1546398727.jpg</fanart>
+</item>
