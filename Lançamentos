@@ -10,6 +10,20 @@
 </info>
 </item>
 
+
+<item> 
+<title>[COLOR white][B]Escape Room 1 e 2: Tensão Máxima[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3417AAEAC60E258DFA2AACB1CB4E6188AD3769B$nome=[COLOR white][B]Escape Room[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8afb6d3f243aaa89db3c5e7c6ca5928d2670f929$nome=[COLOR white][B]Escape Room 2: Tensão Máxima[/B][/COLOR]</link>  
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg</thumbnail>
+<fanart>https://escape60.com.br/wp-content/uploads/2021/09/bg_lp_e60_escaperooM2.png</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror,Mistério[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.[/B][/COLOR]
+</info>
+</item>
+
 <item> 
 <title>[COLOR white][B]Madres: Mães de Ninguém[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da01a99091862d45cc070a4875ae91b9352c51c</link>
@@ -1587,6 +1601,19 @@ ________________________________________________________________________________
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]As luzes se acendem em Washington Heights... O cheirinho de um cafecito caliente paira no ar, na saída da estação de metrô da Rua 181, onde um caleidoscópio de sonhos mobiliza essa comunidade vibrante e muito unida. No meio de tudo, temos o querido e magnético dono de uma mercearia, Usnavi, que economiza cada centavo do seu dia de trabalho enquanto torce, imagina e canta sobre uma vida melhor.[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Música,Romance[/B][/COLOR] 
 [COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+</info>
+</item>
+
+<item> 
+<title>[COLOR white][B]Escape Room 1 e 2: Tensão Máxima[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D3417AAEAC60E258DFA2AACB1CB4E6188AD3769B$nome=[COLOR white][B]Escape Room[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8afb6d3f243aaa89db3c5e7c6ca5928d2670f929$nome=[COLOR white][B]Escape Room 2: Tensão Máxima[/B][/COLOR]</link>  
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ir3cxdjrJJ1r127hCeGneBYe3fS.jpg</thumbnail>
+<fanart>https://escape60.com.br/wp-content/uploads/2021/09/bg_lp_e60_escaperooM2.png</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror,Mistério[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Seis pessoas inconscientemente se encontram trancadas em outra série de salas de fuga, lentamente descobrindo o que têm em comum para sobreviver, enquanto descobrem todos os jogos que jogaram antes.[/B][/COLOR]
 </info>
 </item>
 
