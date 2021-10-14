@@ -15,9 +15,11 @@
 <fanart>https://fanart.tv/fanart/tv/355622/seasonthumb/doom-patrol-5ef0fdd85cdd1.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title>
-<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Doom%20Patrol%20-%203%20temp</externallink>
+<item> 
+<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V7OL4LIY4ENLOXPNB2YOIMSLQN3TI7VZ$nome=[COLOR white][B]1° ao 3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7db443974d8705e854f71d015bd487dda20d601$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9ed65f7051eec653cf97d404382d5f473ad2bda$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/355622/seasonposter/doom-patrol-614f367cc88c3.jpg</thumbnail>
 <fanart>https://geeksinaction.com.br/wp-content/uploads/2021/09/E_hxSWNWYAEhUxk-752x440.jpg</fanart>
 </item>
