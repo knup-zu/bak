@@ -11,6 +11,18 @@
 </item>
 
 <item> 
+<title>[COLOR white][B]nome[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E10D14A589CB06442A2E32DF308227A7B1C7603A</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
+</info>
+</item>
+
+<item> 
 <title>[COLOR white][B]Fake Famous: Uma Experiência Surreal nas Redes[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEE6JVHL3CBN6DPJ7DR4TW6UVQUTYAXU</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uAXVDwLbrzzqaX8hHSRoCwBVkWz.jpg</thumbnail>
