@@ -2,8 +2,11 @@
 
 
 <item> 
-<title>[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49df0366dfdc205d0406ac0ac7e5ad6ebd1678ad</link>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4127f5d633a8a4ebf74751b65296ec4a014cbf8$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e66b565fa270ccf1864cabb676225bda18466dd8$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7f8ec83912efa85df4d79e0fd85f2aadb5f377b$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2587faf8d18562f819bc3bc545bd5f1ee54c67d2$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vatxTWMRBHzVbFI2JHaOEEm3r0n.jpg</thumbnail>
 <fanart>https://149359564.v2.pressablecdn.com/wp-content/uploads/2021/09/210924_acapulco.png</fanart>
 </item>
