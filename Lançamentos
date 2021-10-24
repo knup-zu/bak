@@ -10,6 +10,19 @@
 </info>
 </item>
 
+
+<item> 
+<title>[COLOR white][B]Duna[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ADB76E281F8BEC27F44CD52D1B05247939675A73</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg</thumbnail>
+<fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/09/10105957/duna-1.jpg?fit=1280%2C720&ssl=1</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Aventura, Ficção Científica,Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem homem cuja família toma controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria melange, a substância mais importante do cosmos, Arrakis se prova ser um planeta nem um pouco fácil de governar.[/B][/COLOR]
+</info>
+</item>
+
 <item> 
 <title>[COLOR white][B]Pequeno Linguarudo[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRG5J3FGSIKN2OOU6MIZSUIACUQAIMQZ</link>
@@ -117,18 +130,6 @@
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Documentário[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Três adolescentes adotadas se conhecem online e descobrem que são primas. Inspiradas por essa descoberta, elas confrontam questões emocionais complicadas e embarcam em uma viagem à China em busca de respostas, conexões e da história de suas vidas.[/B][/COLOR]
-</info>
-</item>
-
-<item> 
-<title>[COLOR white][B]Duna[/B][/COLOR] [COLOR lime][B]- HDCAM[/B][/COLOR][COLOR white][B] - Legendado[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E10D14A589CB06442A2E32DF308227A7B1C7603A</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg</thumbnail>
-<fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/09/10105957/duna-1.jpg?fit=1280%2C720&ssl=1</fanart>
-<info>
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Aventura, Ficção Científica,Drama[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem homem cuja família toma controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria melange, a substância mais importante do cosmos, Arrakis se prova ser um planeta nem um pouco fácil de governar.[/B][/COLOR]
 </info>
 </item>
 
