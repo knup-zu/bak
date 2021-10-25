@@ -11,7 +11,8 @@
 
 <item>
 <title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41dc2fd17c7cb2c52e70ca4929448f0d015d14b0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41dc2fd17c7cb2c52e70ca4929448f0d015d14b0$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e43c33a4e4cf22ea52383c0baf12d8ba27c2a5$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/366172/tvposter/hightown-5f16ef5cac0f9.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/366172/tvthumb/hightown-5f118b7ca72a3.jpg</fanart>
 </item>
