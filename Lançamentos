@@ -11,8 +11,10 @@
 </item>
 
 <item> 
-<title>[COLOR white][B]Duna[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb</link>
+<title>[COLOR white][B]Duna[/B][/COLOR] [COLOR lime][B]- 720p,1080p e 4K[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[COLOR white][B]720p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d424b314ef9555720d9e732459460605da9a66$nome=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[COLOR white][B]4k Compacto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg</thumbnail>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/09/10105957/duna-1.jpg?fit=1280%2C720&ssl=1</fanart>
 <info>
@@ -1651,8 +1653,10 @@ ________________________________________________________________________________
 </item>
 
 <item> 
-<title>[COLOR white][B]Duna[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb</link>
+<title>[COLOR white][B]Duna[/B][/COLOR] [COLOR lime][B]- 720p,1080p e 4K[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[COLOR white][B]720p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d424b314ef9555720d9e732459460605da9a66$nome=[COLOR white][B]1080p[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[COLOR white][B]4k Compacto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg</thumbnail>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/09/10105957/duna-1.jpg?fit=1280%2C720&ssl=1</fanart>
 <info>
