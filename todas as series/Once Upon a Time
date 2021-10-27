@@ -47,26 +47,28 @@
 
 <item> 
 <title>[COLOR white][B]7ª Temporada[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43d428bc58a516202845e812aa73f25613f889ca$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93372a86757faf31d02bde430569cf62edc6c0ec$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c8f4cb83b336d11059326a7e5669f4ef0e1e29b$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c8f4cb83b336d11059326a7e5669f4ef0e1e29b$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5eea586403625a867a412c0b3d815de09a7489f$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fcd8087e35141557b719ae041924c0c3bfbbebe$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c7536bebe8b5ddfbd49b18ca92aba7c4ffed11e$nome=[COLOR white][B]7° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882fdf48d9f48aeab4c6fba4824a29b0dbf21573$nome=[COLOR white][B]8° e 9° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57086a30242e69042e91702cc15a7f4ac9136398$nome=[COLOR white][B]10° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae798be083656b6c993a57c84f8365b3d1da8272$nome=[COLOR white][B]11° e 12° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bffed763e014206b8c6d79d2119a2aef7277352$nome=[COLOR white][B]13° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431e4dae0e15a2fe52aa79b43d9a22cf2a934347$nome=[COLOR white][B]14° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f6337160ae6017e6b0101a252de763a34251b7b$nome=[COLOR white][B]15° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bfe01d998a5c62e738bcdef3dd61486dce2a5b8$nome=[COLOR white][B]16° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e7d116a3a0722768107daa64d0ad1dfea367e236$nome=[COLOR white][B]17° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f52e6e853fca71b3e40403f45edf69e31beccee$nome=[COLOR white][B]18° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a992d4c60ba04313fc56565c5871507cba9115a$nome=[COLOR white][B]19° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b98e359409a6c6576994a1a4c7ea99f9a02968e$nome=[COLOR white][B]20° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ed07d8fc9fa3176797a4f2eeb59b716bc2b4830$nome=[COLOR white][B]21° Episódio[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5127806038fba198a6b51fecf29915df038b7288$nome=[COLOR white][B]22° Episódio[/B][/COLOR]</link>
+<link>https://cdn28.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep01.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>https://cdn34.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep02.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>https://cdn27.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep03.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>https://cdn22.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep04.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>https://cdn32.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep05.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>https://cdn25.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep06.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<link>https://cdn30.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep07.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]7° Episódio[/B][/COLOR]</link>
+<link>https://cdn26.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep08.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]8° Episódio[/B][/COLOR]</link>
+<link>https://cdn35.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep09.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]9° Episódio[/B][/COLOR]</link>
+<link>https://cdn27.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep10.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]10° Episódio[/B][/COLOR]</link>
+<link>https://cdn39.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep11.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]11° Episódio[/B][/COLOR]</link>
+<link>https://cdn26.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep12.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]12° Episódio[/B][/COLOR]</link>
+<link>https://cdn31.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep13.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]13° Episódio[/B][/COLOR]</link>
+<link>https://cdn21.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep14.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]14° Episódio[/B][/COLOR]</link>
+<link>https://cdn21.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep15.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]15° Episódio[/B][/COLOR]</link>
+<link>https://cdn22.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep16.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]16° Episódio[/B][/COLOR]</link>
+<link>https://cdn28.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep17.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]17° Episódio[/B][/COLOR]</link>
+<link>https://cdn23.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep18.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]18° Episódio[/B][/COLOR]</link>
+<link>https://cdn21.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep19.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]19° Episódio[/B][/COLOR]</link>
+<link>https://cdn37.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep20.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]20° Episódio[/B][/COLOR]</link>
+<link>https://cdn28.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep21.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]21° Episódio[/B][/COLOR]</link>
+<link>https://cdn36.ntcdn.stream/prop/httpdelivery/series/p3/once-upon-a-time/7/dub/temp7ep22.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]22° Episódio[/B][/COLOR]</link>
 <thumbnail>https://fanart.tv/fanart/tv/248835/seasonposter/once-upon-a-time-2011-5b92d9fa740fe.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/248835/showbackground/once-upon-a-time-2011-50b214e4cdfaf.jpg</fanart>
 </item>
