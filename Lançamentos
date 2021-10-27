@@ -11,10 +11,35 @@
 </item>
 
 <item> 
+<title>[COLOR white][B]A Casa Sombria[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CBFPYN7SS2DKYMEJ6BEWV3XKHFGPZ5PM</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5qoBMPkhmbDeTH8SEkY3V2flewD.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/qbQ219gsHpdx33WSfdCgG9I2Xg5.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror,Mistério[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Lutando por conta da morte inesperada de seu marido, Beth (Rebecca Hall) vive sozinha em sua casa à beira do lago. Ela tenta o melhor que pode para se manter bem, mas possui dificuldades por conta de seus sonhos: visões perturbadoras de uma presença na casa a chama, acenando com um fascínio fantasmagórico.[/B][/COLOR]
+</info>
+</item>
+
+<item> 
+<title>[COLOR white][B]Hypnotic[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HXFFFI26VJG6OFGA56VMDR3YOY3K5STS</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5IFj6WUmL1MqYPLGct0gsdAA7Wm.jpg</thumbnail>
+<fanart>https://pipocasclub.com.br/wp-content/uploads/2021/10/hypnotic-netflix-poster-e1633467700802.webp</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Em busca de chegar a uma versão melhor de si mesma, uma jovem mulher procura a ajuda de um renomado hipnotizador. Mas após uma série de intensas sessões, ela logo se depara com consequências perigosas e mortais.[/B][/COLOR]
+</info>
+</item>
+
+<item> 
 <title>[COLOR white][B]Duna[/B][/COLOR] [COLOR lime][B]- 720p,1080p e 4K[/B][/COLOR]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[COLOR white][B]720p[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d424b314ef9555720d9e732459460605da9a66$nome=[COLOR white][B]1080p[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[COLOR white][B]4k Compacto[/B][/COLOR]</link>
+<link>https://cdn4.ntcdn.stream/prop/httpdelivery/filmes/p4/65807412dune-2021.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg</thumbnail>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/09/10105957/duna-1.jpg?fit=1280%2C720&ssl=1</fanart>
 <info>
@@ -1657,6 +1682,7 @@ ________________________________________________________________________________
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa5d5296e69ea5f1a60a14a531b666be73d2e7bb$nome=[COLOR white][B]720p[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d424b314ef9555720d9e732459460605da9a66$nome=[COLOR white][B]1080p[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4cd2ca7b3a05fca7dafa7e6945f63a7a3bd9759c$nome=[COLOR white][B]4k Compacto[/B][/COLOR]</link>
+<link>https://cdn4.ntcdn.stream/prop/httpdelivery/filmes/p4/65807412dune-2021.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/krrZTVEqrYwu6vR3f4NWgdSZg8X.jpg</thumbnail>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/09/10105957/duna-1.jpg?fit=1280%2C720&ssl=1</fanart>
 <info>
