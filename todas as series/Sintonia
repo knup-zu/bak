@@ -1,0 +1,16 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CD35673F6F1782A173FE10EC811950C48F834B05</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg</thumbnail>
+<fanart>https://www.ofuxico.com.br/img/upload/noticias/2020/01/02/sintonia_367300_36.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IV7YSA72M5HO6VPUSANANLC46ODJMKRW</link>
+<thumbnail>https://portalpopline.com.br/wp-content/uploads/2021/09/sintonia-poster-3.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/MnGOBeaXF6o/maxresdefault.jpg</fanart>
+</item>
