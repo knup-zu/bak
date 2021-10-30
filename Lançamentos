@@ -11,6 +11,44 @@
 </item>
 
 <item> 
+<title>[COLOR white][B]Sem Conexão 1 e 2[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a54db9bf77d7eae33aefb27be11c99b2b9b64c98$nome=[COLOR white][B]Sem Conexão: Parte 1[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:258b387aa626e2a11a64a85bc3c1ee435716c16d$nome=[COLOR white][B]Sem Conexão: Parte 2[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txp0Wm5MGTYRJopAC015VRanBab.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R_wIaGkiUBI/maxresdefault.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Um grupo de jovens é mandado para um acampamento offline, para diminuir a dependência com a tecnologia, mas acabam tendo que lutar por suas vidas quando se deparam com algo que não achariam nem nos cantos mais sombrios da internet.[/B][/COLOR]
+</info>
+</item>
+
+<item> 
+<title>[COLOR white][B]Um Fim de Semana Prolongado[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46e838de8656879a5a6b92b8ff33c4beb03c8350</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/aRTTzUIiG6uakLiIuAagxvhRzKS.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Romance,Comédia[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Uma história de amor, repleto de realismo mágico, centrada em Bart (Finn Wittrock), um escritor que luta contra a sorte, e a enigmática mulher (Zoe Chao) que entra em sua vida na hora certa.[/B][/COLOR]
+</info>
+</item>
+
+<item> 
+<title>[COLOR white][B]Exército de Ladrões: Invasão da Europa[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4f47d7bc3205f1c49d20421f21f082c7695081</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51j7jSkA1lS9CYOXmW8cWXuokZy.jpg</thumbnail>
+<fanart>https://trecobox.com.br/wp-content/uploads/2021/08/Army-of-Thieves-data-estreia.png</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Comédia[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Funcionário de um banco de cidade pequena, Dieter é puxado para uma aventura única ao ser recrutado por uma mulher misteriosa para se juntar à equipe dos criminosos mais procurados da Interpol, na missão de executar uma sequência de assaltos impossíveis através de cofres da Europa.[/B][/COLOR]
+</info>
+</item>
+
+
+<item> 
 <title>[COLOR white][B]Tempo[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f3c4bab42e9579e58a6a5bab9147ba57634e332$nome=[COLOR white][B]Torrent[/B][/COLOR]</link>
 <link>https://cdn7.ntcdn.stream/prop/httpdelivery/filmes/p4/68074524tempo-2021.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
@@ -1964,6 +2002,19 @@ ________________________________________________________________________________
 [COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
 </info>
 </item>
+
+<item> 
+<title>[COLOR white][B]Exército de Ladrões: Invasão da Europa[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4f47d7bc3205f1c49d20421f21f082c7695081</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/51j7jSkA1lS9CYOXmW8cWXuokZy.jpg</thumbnail>
+<fanart>https://trecobox.com.br/wp-content/uploads/2021/08/Army-of-Thieves-data-estreia.png</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Comédia[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Funcionário de um banco de cidade pequena, Dieter é puxado para uma aventura única ao ser recrutado por uma mulher misteriosa para se juntar à equipe dos criminosos mais procurados da Interpol, na missão de executar uma sequência de assaltos impossíveis através de cofres da Europa.[/B][/COLOR]
+</info>
+</item>
+
 
 <item> 
 <title>[COLOR white][B]Explota Explota[/B][/COLOR]</title>  
@@ -4357,6 +4408,19 @@ ________________________________________________________________________________
 </info>
 </item>
 
+<item> 
+<title>[COLOR white][B]Sem Conexão 1 e 2[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a54db9bf77d7eae33aefb27be11c99b2b9b64c98$nome=[COLOR white][B]Sem Conexão: Parte 1[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:258b387aa626e2a11a64a85bc3c1ee435716c16d$nome=[COLOR white][B]Sem Conexão: Parte 2[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txp0Wm5MGTYRJopAC015VRanBab.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/R_wIaGkiUBI/maxresdefault.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Um grupo de jovens é mandado para um acampamento offline, para diminuir a dependência com a tecnologia, mas acabam tendo que lutar por suas vidas quando se deparam com algo que não achariam nem nos cantos mais sombrios da internet.[/B][/COLOR]
+</info>
+</item>
+
 <item>
 <title>[B][COLOR white]Sem Filhos[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:767e7939a6fde7ca91ad05c655eb587396ce41c5&dn=COMOEUBAIXO.COM..MKV.Sem_Filhos.2021.1080p.WEB-DL.5.1.DUAL.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce</link>
@@ -4829,6 +4893,18 @@ ________________________________________________________________________________
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Cinco viajantes dividindo carona num motorhome para chegar a um destino comum. Durante a viagem, eles sofrem um acidente quando tentam desviar da carcaça de um animal morto na estrada. Ao recobrarem a consciência, eles se encontram no meio do nada.[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Terror[/B][/COLOR] 
 [COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+</info>
+</item>
+
+<item> 
+<title>[COLOR white][B]Um Fim de Semana Prolongado[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46e838de8656879a5a6b92b8ff33c4beb03c8350</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wiqc31USBF9k0RpytlcMkPmD5tv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/aRTTzUIiG6uakLiIuAagxvhRzKS.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Romance,Comédia[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Uma história de amor, repleto de realismo mágico, centrada em Bart (Finn Wittrock), um escritor que luta contra a sorte, e a enigmática mulher (Zoe Chao) que entra em sua vida na hora certa.[/B][/COLOR]
 </info>
 </item>
 
