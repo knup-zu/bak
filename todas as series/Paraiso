@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:befad30c0ab17b9ce2f1d5d9c80d3884134cd045$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:964b5a9426e2a221c8095b96126acb1ba26f3c3f$nome=[COLOR white][B]2° ao 4° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6blZGszOEJCTtWqXLKAkULiFPpF.jpg</thumbnail>
+<fanart>http://cinema10.com.br/upload/noticias/2021-2/115912a440.jpg</fanart>
+</item>
