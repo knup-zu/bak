@@ -1,0 +1,24 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30EB06B72C47E0C9807B3C40BD7B865D029F3425</link>
+<thumbnail>https://fanart.tv/fanart/tv/311892/seasonposter/taken-2016-5ea4621854c48.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/311892/tvthumb/taken-2016-58b9c31be17cd.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:baf40f7f495fdbe99c340de2f58c8c1bf0d68f41$nome=[COLOR white][B]1° ao 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b541d92003cd9e6acf822d958ae809281195f849$nome=[COLOR white][B]5° ao 8° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5998c65ef45c69e9d2e877d98be1495f69b0b990$nome=[COLOR white][B]9° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4256257355064dff7a690783467bb58e32e08b6$nome=[COLOR white][B]10° e 11° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2c2674cd347bcc41d3d4d3e0805e4ccf6a7139$nome=[COLOR white][B]12° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:931b0bd1a792a1cb00be94f6fec350f05b315650$nome=[COLOR white][B]13° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d7b69181a9ef47e951ceeb22cae4b84cf7ed7a7$nome=[COLOR white][B]14° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6e7e7c4d075f0471c4a34f470dd9f8ffebc9d7e$nome=[COLOR white][B]15° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B4D719B13420ACBE4149DCB793B09ABAE9A68A8D$nome=[COLOR white][B]16° Episódio[/B][/COLOR]</link>
+<thumbnail>https://fanart.tv/fanart/tv/311892/seasonposter/taken-2016-5ea6752628498.jpg</thumbnail>
+<fanart>https://fanart.tv/fanart/tv/311892/showbackground/taken-2016-5a56196d7d97c.jpg</fanart>
+</item>
