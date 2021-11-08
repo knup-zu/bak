@@ -425,19 +425,6 @@ ________________________________________________________________________________
 </info>
 </item>
 
-<item> 
-<title>[COLOR white][B]nome[/B][/COLOR]</title>  
-<link>https://mega.nz/file/AQ5FmY6B#i7MAxmNDQA-oxvfLJIi_VE_CkQr_AWhDOnO4rJswODs</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
-[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama[/B][/COLOR] 
-[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B][/B][/COLOR]
-</info>
-</item>
-
-
 <item>
 <title>[B][COLOR white]A Presença[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6fdaee2b8c00a5746c3d5527b43adf80d40ba2de</link>
@@ -1402,6 +1389,18 @@ green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Linda e Paxton costumavam ter um ótimo relacionamento, mas com o casamento desmoronando, eles são forçados a ficarem presos na mesma casa em meio a quarentena do COVID-19. Juntos, eles resolvem arquitetar um assalto que pode, ou não, salvar o relacionamento.[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Comédia,Crime,Drama[/B][/COLOR] 
 [COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+</info>
+</item>
+
+<item> 
+<title>[COLOR white][B]Conspiração Implacável[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c50c7a1ebd2f5b896817588f597ab504fc12f49</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qlXenN6jjgbsIyEJxBjkfkEU0q8.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/jcoRC2oE6Qk/maxresdefault.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Segue Nicolas Shaw, um agente especial aposentado dos EUA que se torna parte de uma equipe de elite "invisível" que discretamente elimina os piores vilões do mundo.[/B][/COLOR]
 </info>
 </item>
 
