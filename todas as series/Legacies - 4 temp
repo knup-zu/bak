@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHVVXJEB74IUPV46MTGPEUTTICIYHA2H</link>
+<thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/legacies-season-4-poster-1634208746.jpg?resize=768:*</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/10/legacies-1200x900-1.webp</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8acc6827951139072e30e27a526d968cedbe43e</link>
+<thumbnail>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/legacies-season-4-poster-1634208746.jpg?resize=768:*</thumbnail>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/10/legacies-1200x900-1.webp</fanart>
+</item>
