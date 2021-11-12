@@ -1,0 +1,11 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731dcefab2e4112dca0349424dbc4d1d3a269f73$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8cc2e0c5f6116e8a6dcb105a7482c8a68653086$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdb454f835c4f834ebb7fff16b65796bea496762$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6vrsONQlWpSgvgwiVE634tH7nn1.jpg</thumbnail>
+<fanart>https://leiturafilmica.com.br/wp-content/uploads/2021/09/family-law.jpg</fanart>
+</item>
