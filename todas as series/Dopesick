@@ -2,8 +2,10 @@
 
 
 <item>
-<title>[COLOR white][B]1ª e 2° Episódio[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d66fa9c715bc38217976429bc7da92a74c6923</link>
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9d66fa9c715bc38217976429bc7da92a74c6923$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:059a8df0fa5bf7ac2230c6403e3c807f33e9efd9$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aivm0rwsMAGJoQJqCjdnuyjFSGX.jpg</thumbnail>
 <fanart>https://disneyplusbrasil.com.br/wp-content/uploads/2021/11/Dopesick-StarPlus.jpg</fanart>
 </item>
