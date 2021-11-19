@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3b4b920de06a789e7793862fe4d6e61d249e3e6$nome=[COLOR white][B]1° ao 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a0f467a810173e1e404d4ef4372547ce4276d68$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6tWSaFYVo8ps19KxpWsgDQlEpTH.jpg</thumbnail>
+<fanart>https://macmagazine.com.br/wp-content/uploads/2021/10/101421_Apple_Debuts_Trialer_Swagger_Big_Image_01.jpg</fanart>
+</item>
