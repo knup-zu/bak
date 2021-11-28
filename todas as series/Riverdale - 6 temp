@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8fe7dbfd8be3cb075d0734cedaefc9cd86b879b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d01ad23c83f838817a2daeeb4bcf75dfc60d0a48</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>

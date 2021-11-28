@@ -2,9 +2,11 @@
 <layoutype>thumbnail</layoutype>
 
 
-<item>
-<title>[COLOR white][B]EPISÓDIO -> 01 -[/B][/COLOR]  [COLOR lime][B]O Livre Arbítrio Nunca é Livre[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:105018abeaacd81b56932c580fa655cd664bcb10</link>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:105018abeaacd81b56932c580fa655cd664bcb10$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bafb1b512df558142796fcfb917ef88df9f86a43$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8rbxvwGpPd9MWjdhAoSBj016cns.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/376837/showbackground/power-book-ii-ghost-5fe2e130dad92.jpg</fanart>
 </item>
