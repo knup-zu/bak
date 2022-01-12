@@ -12,7 +12,7 @@
 
 
 <item> 
-<title>[COLOR white][B]Eternos[/B][/COLOR][COLOR lime][B] - 1080P e 4K[/B][/COLOR] </title>  
+<title>[COLOR white][B]Eternos[/B][/COLOR][COLOR lime][B] - 1080P e 4K[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e319e497ad4986832dcdea524bff25f0d8d478a$nome=[COLOR white][B]Torrent[/B][/COLOR][COLOR lime][B] - 1080P[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd07997f3c5db3767711218bba5607e60789acc9$nome=[COLOR white][B]Torrent[/B][/COLOR][COLOR lime][B] - 4K[/B][/COLOR]</link>
 <link>https://cdn4.ntcdn.stream/prop/httpdelivery/filmes/p4/87013698eternos.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Link Direto[/B][/COLOR]</link>
@@ -22,6 +22,20 @@
 [COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Aventura,Fantasia,Ficção Científica[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Após os eventos de "Vingadores: Ultimato", os Eternos, uma raça alienígena imortal criada pelos Celestiais que vivem em segredo na Terra há mais de 7000 anos, se reúnem após uma tragédia inesperada para proteger a humanidade de seus colegas malignos: os Deviantes.[/B][/COLOR]
+</info>
+</item>
+
+
+<item> 
+<title>[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B] - 1080P e 4K[/B][/COLOR] </title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a728e8ecce149b80fea9282fa40ea065ed07748$nome=[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B]1080P[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c217179889e060bb11190eaa2f55cd1298ec4a2c$nome=[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B]4K[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/proxy/rAjhWOnIA1wx4hfFVRrY_09e28d4PGPRi-CLv2tYq1bIq6T2bEDwog946_KR77VjyyqwMKY0DI6QlL_BogInZudMLsk7VF7FzGtLTJHZkLaLZyOGZ9U-Exd2irFmEKeDLCJIwKXXAjuk</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Aventura,Ficção Científica[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Matrix: Resurrections é o novo filme da franquia Matrix, continuando a saga de Neo (Keanu Reeves) em sua busca pela libertação das pessoas aprisionadas mentalmente pelas máquinas.[/B][/COLOR]
 </info>
 </item>
 
@@ -173,13 +187,13 @@ ________________________________________________________________________________
 </item>
 
 <item> 
-<title>[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B] - DUBLAGEM OFICIAL[/B][/COLOR]</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5IYZBOFUJBV3RNUFEJ5WG2TTOWOIZD3$nome=[COLOR white][B]DUBLADO[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D033F1FFB0CB3F83D43B2DC5D1BED24C76FC70DE$nome=[COLOR white][B]LEGENDADO[/B][/COLOR]</link>
+<title>[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B] - 1080P e 4K[/B][/COLOR] </title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a728e8ecce149b80fea9282fa40ea065ed07748$nome=[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B]1080P[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c217179889e060bb11190eaa2f55cd1298ec4a2c$nome=[COLOR white][B]Matrix: Resurrections[/B][/COLOR][COLOR lime][B]4K[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLNtaLaHudIzOqdEZ7R3lcDLrQQ.jpg</thumbnail>
 <fanart>https://lh3.googleusercontent.com/proxy/rAjhWOnIA1wx4hfFVRrY_09e28d4PGPRi-CLv2tYq1bIq6T2bEDwog946_KR77VjyyqwMKY0DI6QlL_BogInZudMLsk7VF7FzGtLTJHZkLaLZyOGZ9U-Exd2irFmEKeDLCJIwKXXAjuk</fanart>
 <info>
-[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
 [COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Aventura,Ficção Científica[/B][/COLOR] 
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Matrix: Resurrections é o novo filme da franquia Matrix, continuando a saga de Neo (Keanu Reeves) em sua busca pela libertação das pessoas aprisionadas mentalmente pelas máquinas.[/B][/COLOR]
 </info>
