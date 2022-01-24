@@ -1,9 +1,15 @@
 <layoutype>thumbnail</layoutype>
 
 
-<item>
-<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41b389f74f0b9f1fb3bcea9e0f811d53176b733c&dn=COMOEUBAIXO.COM.1A-TEMPORADA-COMPLETA-1080P-5.1-5.1-GB.MP4.Fatma_S01_1080p.WEB-DL.1080p.DUBLADO.5.1.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce</link>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>https://rr3---sn-vgqsrnlk.googlevideo.com/videoplayback?expire=1643096974&ei=DjvvYYXMDdXeigTPtZv4BQ&ip=209.126.9.123&id=93a2179e0f6bb18c&itag=18&source=blogger&mh=5s&mm=31&mn=sn-vgqsrnlk&ms=au&mv=m&mvi=3&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2564.527&lmt=1619627935069384&mt=1643067907&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAOhW2P02AYVDWPrU-_wJmOS--_c6eKYssWv3xNIL6SkdAiEAtrGAWxmpFMPUHJx8pab9BF8F-tG4n3JVaYYnwr_M8bw%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAK7dPepTEfkQCwrEbpmopqtSj5MZc0JuMexCo-bTEpg0AiAKQYvkT2EF6t_1pWkIBq8SM0nH2lojqBvjoIjqBJ8r1A%3D%3D?type=video/mp4&title=video$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/efAH3wdr1ZuqK0sBmBdqvAZG7PT.jpg</thumbnail>
 <fanart>https://cafecomnerd.com.br/wp-content/uploads/2021/04/fatma-serie-turca-sobre-uma-faxineira-serial-killer-na-netflix.jpg</fanart>
 </item>
