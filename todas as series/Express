@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f6bd033c6950769dc27d22470a7bcd7d6892c99$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0def2734f39a5668f62b7c3076d9408e53a8816d$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3rrPCr2Z4jbkZ6tvyeBEOFqVRFr.jpg</thumbnail>
+<fanart>https://i2.wp.com/sitedosgeeks.com/wp-content/uploads/2022/01/unnamed-1.jpg?fit=1800%2C1200&ssl=1</fanart>
+</item>
