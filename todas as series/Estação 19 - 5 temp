@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01 e 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8b0d5b74ad9a74bcc6b1add62ce8cb80c42b94f</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOWY2NDE2NjktNTZkMi00MDNlLTliZTctYzY5OGJkMjYxOTI4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg</thumbnail>
+<fanart>https://images.fanart.tv/fanart/station-19-5e514b00c7767.jpg</fanart>
+</item>

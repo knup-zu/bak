@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18b191342a126e206652b7d2f85a288f2a5d36a4$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65d3ac5b7ce27c0508da32a56ecbb61677aea9a1$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwS6ggTI8hTkVTz1I4U6BZ48pgZ.jpg</thumbnail>
+<fanart>https://rollingstone.uol.com.br/media/uploads/kaci_walfall_em_naomi_serie_da_dc_foto_reproducao__twitter.jpg</fanart>
+</item>
