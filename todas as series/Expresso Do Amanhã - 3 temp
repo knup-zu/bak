@@ -2,9 +2,15 @@
 <layoutype>thumbnail</layoutype>
 
 
+
+
 <item>
-<title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QP5GCRKL25YDUSWZGKAJBO25VDGFS3KQ</link>
+
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QP5GCRKL25YDUSWZGKAJBO25VDGFS3KQ$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c523a9137f1e8ae2edc54c3f1c29ff1ab8c27f4d&$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://ondebaixa.com/imagens/expresso-do-amanha-3-temporada-download-torrent-2022-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/koLrV--ExbA/maxresdefault.jpg</fanart>
 </item>
