@@ -1324,7 +1324,7 @@
 <externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/bosch-series-folder-4-png-clipart.jpg</externallink>
 <fanart>https://tr.web.img4.acsta.net/newsv7/20/02/14/08/11/3162284.jpg</fanart>
 <info>
-[COLOR lime][B]Emissora:[/B][/COLOR] [COLOR white][B]Amazon[/B][/COLOR] 
+[COLOR lime][B]Emissora:[/B][/COLOR] [COLOR white][B]Amazon Prime Video[/B][/COLOR] 
 [COLOR lime][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2014[/B][/COLOR] 
 [COLOR lime][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Crime[/B][/COLOR] 
 [COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR white][B]Quinze meses após levar o assassino de sua mãe à justiça, Bosch se vê em busca da verdade em duas frentes. Novas provas de um antigo caso faz todos se perguntarem se Bosch plantou provas para condenar o homem errado. E um homicídio em uma farmácia de Hollywood expõe um sofisticado tráfico de opioides, colocando Bosch em um sombrio e perigoso caminho na caça aos assassinos.[/B][/COLOR]
@@ -1466,7 +1466,7 @@
 <externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Carnival%20Row</externallink>
 <fanart>https://fanart.tv/fanart/tv/365026/tvthumb/carnival-row-5d0012f658790.jpg</fanart>
 <info>
-[COLOR lime][B]Emissora:[/B][/COLOR] [COLOR white][B]Amazon Prime[/B][/COLOR] 
+[COLOR lime][B]Emissora:[/B][/COLOR] [COLOR white][B]Amazon Prime Video[/B][/COLOR] 
 [COLOR lime][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2019[/B][/COLOR] 
 [COLOR lime][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama, Fantasia, Policial[/B][/COLOR] 
 [COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR white][B]Um serial killer inicia uma onda de crimes a criaturas mágicas na vitoriana Burgue, iniciando uma conturbada investigação que transforma o detetive do caso no principal suspeito dos terríveis crimes.[/B][/COLOR]
@@ -6224,6 +6224,20 @@
 </info>
 </channels></channel>
 
+
+<channels><channel>
+<name>[COLOR lime]•[/COLOR][COLOR white][B]Reacher[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bQnnKBe3VsvXKMoNCaYmRzs1Dup.jpg</thumbnail>
+<fanart>https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/12/0-26.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Reacher</externallink>
+<info>
+[COLOR lime][B]Emissora:[/B][/COLOR] [COLOR white][B]Amazon Prime Video[/B][/COLOR] 
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR] 
+[COLOR lime][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Aventura,Mistério,Crime,Drama[/B][/COLOR] 
+[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR white][B]Quando o policial militar aposentado Jack Reacher é preso por um assassinato que não cometeu, ele se vê no meio de uma trama mortal cheia de policiais corruptos, empresários obscuros e políticos conspiradores. Só com sua inteligência, ele precisa descobrir o que está havendo em Margrave, Geórgia.[/B][/COLOR]
+[COLOR lime][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
+</info>
+</channels></channel>
 
 <channels><channel>
 <name>[COLOR lime]•[/COLOR][COLOR white][B]Rebelde[/B][/COLOR]</name>
