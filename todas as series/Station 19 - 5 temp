@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01 e 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8b0d5b74ad9a74bcc6b1add62ce8cb80c42b94f</link>
+<thumbnail>https://images.fanart.tv/fanart/station-19-5e51513235adc.jpg</thumbnail>
+<fanart>https://images.fanart.tv/fanart/station-19-5b9b7fb3d2275.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92d8c9b42f84ec89bec57642964ef7e4651f668f</link>
+<thumbnail>https://images.fanart.tv/fanart/station-19-5e51513235adc.jpg</thumbnail>
+<fanart>https://images.fanart.tv/fanart/station-19-5b9b7fb3d2275.jpg</fanart>
+</item>
