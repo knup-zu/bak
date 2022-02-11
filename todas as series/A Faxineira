@@ -1,9 +1,10 @@
 <layoutype>thumbnail</layoutype>
 
 
-<item>
-<title>[COLOR white][B]1ª Episódio[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e6effc15cd8fc4b04ef4b68dbdb3d7b43e8975</link>
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e6effc15cd8fc4b04ef4b68dbdb3d7b43e8975$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3912e9080046f562f350616ab92b8a008aea5a39$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r99eEXNKt16oUPYRiLlKlmhz5Df.jpg</thumbnail>
 <fanart>http://spikytv.com/wp-content/uploads/2022/02/The-Cleaning-Lady-Episode-5-Release-Date.jpg</fanart>
-</item>
