@@ -649,8 +649,21 @@
 [COLOR lime][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Renovada[/B][/COLOR]
 </info>
 
-</channels></channel>	
+</channels></channel>
 
+<channels><channel>
+<name>[COLOR lime]•[/COLOR][COLOR white][B]All of Us Are Dead[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d9yefq8dNke4UbuqStBtUcO9TxD.jpg</thumbnail>
+<fanart>https://rollingstone.uol.com.br/media/uploads/all_of_us_are_dead_divulgacao_netflix.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/All%20of%20Us%20Are%20Dead</externallink>
+<info>
+[COLOR lime][B]Emissora:[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR] 
+[COLOR lime][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR] 
+[COLOR lime][B]Gênero:[/B][/COLOR] [COLOR white][B]Drama,Ficção Científica,Fantasia[/B][/COLOR] 
+[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR white][B]All of Us Are Dead é sobre um grupo de estudantes do ensino médio que enfrentam uma situação extrema de crise quando ficam presos na escola, enquanto um vírus zumbi se espalha como um incêndio. Adaptado do webtoon coreano chamado Now at Our School.[/B][/COLOR]
+[COLOR lime][B]Situação Da Série:[/B][/COLOR] [COLOR white][B]Finalizada[/B][/COLOR]
+</info>
+</channels></channel>
 
 <channels><channel>
 <name>[COLOR lime]•[/COLOR][COLOR white][B]AlRawabi School for Girls[/B][/COLOR]</name>
