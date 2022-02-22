@@ -30,16 +30,23 @@
 	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90ad20437f58c225ad95cc2441597bdda2617406</link>
 	</item>
 	
-		<item>
+	<item>
 	<title>[COLOR white][B]EPISÓDIO -> 05 -[/B][/COLOR] [COLOR lime][B]Fica Quieto Como o Beija-Flor[/B][/COLOR]</title>
 	<thumbnail>https://fanart.tv/fanart/tv/360261/tvposter/euphoria-2019-5cf0f0e0b72bc.jpg</thumbnail>
 	<fanart>https://fanart.tv/fanart/tv/360261/tvposter/euphoria-2019-5cf0f0f0d8e7d.jpg</fanart>
 	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de224bc1aa6c1c680cb687ff2575392f33c0c736</link>
 	</item>
 	
-		<item>
+	<item>
 	<title>[COLOR white][B]EPISÓDIO -> 06 -[/B][/COLOR] [COLOR lime][B]Mil e Mil Árvorezinhas de Sangue[/B][/COLOR]</title>
 	<thumbnail>https://fanart.tv/fanart/tv/360261/tvposter/euphoria-2019-5cf0f0e0b72bc.jpg</thumbnail>
 	<fanart>https://fanart.tv/fanart/tv/360261/tvposter/euphoria-2019-5cf0f0f0d8e7d.jpg</fanart>
 	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92a70dd27959deb460bc6fd2e7c00f5df197cd42</link>
+	</item>
+	
+	<item>
+	<title>[COLOR white][B]EPISÓDIO -> 07 -[/B][/COLOR] [COLOR lime][B]O Teatro e a Sua Dupla[/B][/COLOR]</title>
+	<thumbnail>https://fanart.tv/fanart/tv/360261/tvposter/euphoria-2019-5cf0f0e0b72bc.jpg</thumbnail>
+	<fanart>https://fanart.tv/fanart/tv/360261/tvposter/euphoria-2019-5cf0f0f0d8e7d.jpg</fanart>
+	<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05ffdad332c1660d7956d473cadb6d6f82e1556c</link>
 	</item>
