@@ -1,0 +1,25 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acfe23bce8253d067fac3a2cf4476cd957b76513$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec769b25606c84afae52108efb92a405923c30e3$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ad9f4c3544ff5030bd9f9d413757ea282420bc7$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e33f0027b0f3275fb231445d7fdc2b9d73e8978e$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb1433472550a48a4e3138b7d838616e16868787$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d526eeff46e7b4dd20ad1752d1c4a4a4db2f00$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5de51b344135e2ee8e6be2815ea9954e4c7211fb$nome=[COLOR white][B]7° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d4902e50de7343c8c003a117565f3fb889b3b19$nome=[COLOR white][B]8° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c69b65e7622875069c5a88057eb2f7088fc0c96$nome=[COLOR white][B]9° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6dfbdfb4ad2bd01355e5b193505b02541d06c9d3$nome=[COLOR white][B]10° Episódio[/B][/COLOR]</link>
+<thumbnail>https://images.fanart.tv/fanart/star-trek-picard-5ddaba9b1d76e.jpg</thumbnail>
+<fanart>https://images.fanart.tv/fanart/star-trek-picard-5e2bcbcd25756.jpg</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBYVEEMT7G2P7I5OFMQUAQ3LZ4PPOOUC</link>
+<thumbnail></thumbnail>
+<fanart>https://cdn.pocket-lint.com/r/s/1200x/assets/images/156702-tv-news-feature-star-trek-picard-season-2-release-date-cast-trailers-and-rumours-image6-thpjkrblan.jpg</fanart>
+</item>
