@@ -24,8 +24,15 @@
 </item>
 
 <item>
-<title>[COLOR white][B]EPISÓDIO -> 04[/B][/COLOR]</title>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d75433a49af24ad05fb0054487e2a4df3a3e903f</link>
+<thumbnail>https://images.fanart.tv/fanart/station-19-5e51513235adc.jpg</thumbnail>
+<fanart>https://images.fanart.tv/fanart/station-19-5b9b7fb3d2275.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 06[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e544df467bc6f10b89c672824bbd7b8ae2ebe68f</link>
 <thumbnail>https://images.fanart.tv/fanart/station-19-5e51513235adc.jpg</thumbnail>
 <fanart>https://images.fanart.tv/fanart/station-19-5b9b7fb3d2275.jpg</fanart>
 </item>
