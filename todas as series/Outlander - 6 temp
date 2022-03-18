@@ -4,7 +4,15 @@
 <item>
 <title>[COLOR white][B]EPISÓDIO -> 01[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aab5cbf19911e658bbe6dbd82cced3100e495dac</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBWaGiuUu3wK7MaDEZTW45AV-c7rHD0o2Vv06-v0u3QW3XaEDpbtct63BtGGhfzukCzE&usqp=CAU</thumbnail>
 <fanart>https://tvserieswelove.com/wp-content/uploads/2022/02/272163059_4862158887176615_8130132419791223474_n-870x500.jpg</fanart>
 </item>
  
+ <item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:455ec99a54a3363aaf078ff169b3cecb2d6041ec</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkBWaGiuUu3wK7MaDEZTW45AV-c7rHD0o2Vv06-v0u3QW3XaEDpbtct63BtGGhfzukCzE&usqp=CAU</thumbnail>
+<fanart>https://tvserieswelove.com/wp-content/uploads/2022/02/272163059_4862158887176615_8130132419791223474_n-870x500.jpg</fanart>
+</item>
