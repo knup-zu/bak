@@ -50,12 +50,10 @@
 </info>
 </item>
 
-
-
-
 <item> 
-<title>[COLOR white][B]Morte no Nilo[/B][/COLOR]</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c5dbd40ebfc038a8e93611006df479a8657eb8e</link>
+<title>[COLOR white][B]Morte no Nilo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c5dbd40ebfc038a8e93611006df479a8657eb8e$nome=[COLOR white][B]Morte no Nilo[/B][/COLOR][COLOR lime][B] - Torrent[/B][/COLOR]</link>
+<link>https://cdn4.ntcdn.stream/prop/httpdelivery/filmes/p4/65078996morte-no-nilo.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Morte no Nilo[/B][/COLOR][COLOR lime][B] - Link Direto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg</thumbnail>
 <fanart>https://s2.glbimg.com/9ZA4JGO5PW_ygEN8k_sQ23vDR54=/0x0:1920x1152/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/9/yXdWI1Qki4FBinMS0YDg/morte-no-nilo-filme-cdl-1920x1152-01.jpg</fanart>
 <info>
@@ -1244,8 +1242,9 @@ ________________________________________________________________________________
 </item>
 
 <item> 
-<title>[COLOR white][B]Morte no Nilo[/B][/COLOR]</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c5dbd40ebfc038a8e93611006df479a8657eb8e</link>
+<title>[COLOR white][B]Morte no Nilo[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c5dbd40ebfc038a8e93611006df479a8657eb8e$nome=[COLOR white][B]Morte no Nilo[/B][/COLOR][COLOR lime][B] - Torrent[/B][/COLOR]</link>
+<link>https://cdn4.ntcdn.stream/prop/httpdelivery/filmes/p4/65078996morte-no-nilo.mp4|Referer=https://superfilmes.tv$nome=[COLOR white][B]Morte no Nilo[/B][/COLOR][COLOR lime][B] - Link Direto[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg</thumbnail>
 <fanart>https://s2.glbimg.com/9ZA4JGO5PW_ygEN8k_sQ23vDR54=/0x0:1920x1152/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/X/9/yXdWI1Qki4FBinMS0YDg/morte-no-nilo-filme-cdl-1920x1152-01.jpg</fanart>
 <info>
@@ -1254,7 +1253,6 @@ ________________________________________________________________________________
 [COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Durante suas férias no Egito, Hercule Poirot precisa investigar o misterioso assassinato de uma jovem herdeira a bordo de uma embarcação no rio Nilo.[/B][/COLOR]
 </info>
 </item>
-
 <item> 
 <title>[COLOR white][B]Music[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd617d41432c3e8a79e8326fa4c72a36d7dcc08b</link>
