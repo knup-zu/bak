@@ -21,3 +21,28 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 05[/B][/COLOR] [COLOR lime][B]AGUARDANDO EXIBIÇÃO[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 06 E 07[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:501de19bbeed4cdb7437b0d4a20417a10dc20942</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 08[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c40c9b4b0f2c7a21827bd3dd6551e0f89ab756b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+
