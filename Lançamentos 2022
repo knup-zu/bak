@@ -11,6 +11,18 @@
 </item>
 
 <item> 
+<title>[COLOR white][B]Batman[/B][/COLOR][COLOR lime]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C3DE12F4D34DC8252E0EF51C8229D255BCA8B5C</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg</thumbnail>
+<fanart>https://images3.alphacoders.com/118/thumb-1920-1185634.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação,Crime,Drama[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.[/B][/COLOR]
+</info>
+</item>
+
+<item> 
 <title>[COLOR white][B]Animais Fantásticos: Os Segredos de Dumbledore[/B][/COLOR][COLOR lime][B] - LEGENDADO[/B][/COLOR][COLOR white][B] - HDCAM[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A84CB379C9A6416FE9BBA471A489022B587C192$nome=[COLOR white][B]Animais Fantásticos: Os Segredos de Dumbledore[/B][/COLOR][COLOR lime][B] - LEGENDADO[/B][/COLOR]</link>
 <link>|Referer=https://superfilmes.tv$nome=[COLOR white][B]Animais Fantásticos: Os Segredos de Dumbledore[/B][/COLOR][COLOR lime][B] - DUBLADO[/B][/COLOR][COLOR white][B] - EM BREVE[/B][/COLOR]</link>
@@ -584,8 +596,8 @@ ________________________________________________________________________________
 </item>
 
 <item> 
-<title>[COLOR white][B]Batman[/B][/COLOR][COLOR lime][B] - HDCAM[/B][/COLOR]</title>  
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
+<title>[COLOR white][B]Batman[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C3DE12F4D34DC8252E0EF51C8229D255BCA8B5C</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3VFI3zbuNhXzx7dIbYdmvBLekyB.jpg</thumbnail>
 <fanart>https://images3.alphacoders.com/118/thumb-1920-1185634.jpg</fanart>
 <info>
