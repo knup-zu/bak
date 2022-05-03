@@ -22,6 +22,14 @@
 <item> 
 <title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:340374bd5719bf12dcde856e4558bc3352c02919</link>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:340374bd5719bf12dcde856e4558bc3352c02919$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20f2d038383a1c53ed2bd71f52804e453614b521$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0358287e2715a00443d0cdb3101a8b6dff8c3a43$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f7b4efd1717e045e932ae35b9c1baad87228000$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fb1xE9XHRwX9FK7UiVJDepQKo26.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/5hiNKggapEo/maxresdefault.jpg</fanart>
 </item>
