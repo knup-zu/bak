@@ -4,7 +4,7 @@
 
 <item>
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3BBE452E6ADD9E2A9781FA6BE32023E68037C2D&dn=%7bWWW.BLUDV.TV%7d%20The%20Umbrella%20Academy%20-%201%c2%aa%20Temporada%20Completa%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2790%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3BBE452E6ADD9E2A9781FA6BE32023E68037C2D</link>
 <thumbnail>https://fanart.tv/fanart/tv/353764/seasonposter/the-umbrella-academy-5c66bbd58ec98.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/353764/showbackground/the-umbrella-academy-5c69f5b85755d.jpg</fanart>
 </item>
@@ -14,4 +14,11 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c3522366b60f2c80d9088b122308a841d5cc4f5</link>
 <thumbnail>https://fanart.tv/fanart/tv/353764/seasonposter/the-umbrella-academy-5f036db251fde.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/353764/seasonthumb/the-umbrella-academy-5f108235bd49b.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z5BMOWAWGKHNOMCZHD7ZAO6Z3BDHCE42</link>
+<thumbnail>https://img.estadao.com.br/resources/jpg/0/9/1652985766690.jpg</thumbnail>
+<fanart>https://geekpopnews.com.br/wp-content/uploads/2022/06/The-umbrella-academy-3-temporada-1.jpg</fanart>
 </item>
