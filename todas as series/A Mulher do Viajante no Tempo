@@ -1,0 +1,13 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3523c8cdc80dd4d5a38ab9f2a08ba78b3537fd$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a46307aacc5015bb72fbcf324742d1dec1dac63b$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:117a23bb806f9f1972be6340c6b48f5b8808203b$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:566c79efc2623dfade5f8f0f313966027fd369d4$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc4627d33d79c215d10294989c825a0939a9029c$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y5pmoeuAsc9CvGRcs8kzIKmoneI.jpg</thumbnail>
+<fanart>https://hbomax-images.warnermediacdn.com/images/GYjCvngVdSMN1qAEAAABb/tileburnedin?size=1280x720&partner=hbomaxcom&v=cf440fa55b2a160c92057cc694983a98&host=art-gallery.api.hbo.com&language=pt-br&w=1280</fanart>
+</item>
