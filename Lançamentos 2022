@@ -41,7 +41,7 @@
 </item>
 
 <item> 
-<title>[COLOR white][B]Lightyear[/B][/COLOR]</title>  
+<title>[COLOR white][B]Lightyear[/B][/COLOR][COLOR lime][B] - HDCAM[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DA0A24FA55026B89485B2FE84D63EE3B53105FE</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/js8FIFJ2xyK7pcUQ0pvuX3mJldC.jpg</thumbnail>
 <fanart></fanart>
@@ -1513,6 +1513,17 @@ ________________________________________________________________________________
 </info>
 </item>
 
+<item> 
+<title>[COLOR white][B]Lightyear[/B][/COLOR][COLOR lime][B] - HDCAM[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DA0A24FA55026B89485B2FE84D63EE3B53105FE</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/js8FIFJ2xyK7pcUQ0pvuX3mJldC.jpg</thumbnail>
+<fanart></fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2022[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ficção Científica,Aventura,Ação[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs.[/B][/COLOR]
+</info>
+</item>
 
 <item> 
 <title>[COLOR white][B]Limbo[/B][/COLOR]</title>  
