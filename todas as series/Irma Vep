@@ -1,0 +1,15 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I4BDFC6A5H7FZZU65SZ3NQ3DZN773AEV$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WKU3NQU6TZXRHNMCYWBVWU6VXSJUGLHZ$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CJ3LJLKLOWGKZVKHCPCF2UYPYUH5EHS3$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QP7TUQUSWDINGMG76RI3WEH6V7L2NICE$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CGHDA4GINY46DJT7ZPNCMVOGAQOKPYG$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3TL5B5PML4SHMF27HDKEY2ZOM3KJSLL2$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F7R5X5OPXF2WO5WYUESW34XFPNEUE2IY$nome=[COLOR white][B]7° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gVST8KoYxV8A0ZtlitzEaKeE5L2.jpg</thumbnail>
+<fanart>https://hbomax-images.warnermediacdn.com/images/GYmcIcA5b-IyOtwEAAAAC/tileburnedin?size=1280x720&partner=hbomaxcom&v=3b17b2c8817b429bd5f97456b683cf45&host=art-gallery.api.hbo.com&language=pt-br&w=1280</fanart>
+</item>
