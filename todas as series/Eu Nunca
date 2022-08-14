@@ -4,14 +4,21 @@
 
 <item>
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f5c04da1a4e37f358286d5888278de0ae6fc1cc&dn=COMANDO.TO%20-%20Eu%20Nunca...%201%c2%aa%20Temporada%20Completa%202020%20%5b1080p%5d%20%5bDUAL%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=http%3a%2f%2fexodus.desync.com%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=http%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2740%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2f11.rarbg.com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f5c04da1a4e37f358286d5888278de0ae6fc1cc</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBQpAnRod3k5Fz6pWwIAhzl6igX.jpg</thumbnail>
 <fanart>https://i2.wp.com/mixdeseries.com.br/wp-content/uploads/2020/04/Eu-Nunca-2-temporada.jpg?fit=1050%2C600&ssl=1</fanart>
 </item>
 
 <item>
 <title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W4R7WGNKPXS7OETS6HQC7W5JKXKKFV7F&dn=COMOEUBAIXO.COM..MKV.Eu%20Nunca...%20S2%202021%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W4R7WGNKPXS7OETS6HQC7W5JKXKKFV7F</link>
 <thumbnail>https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2021/06/11/564851492-never-have-i-ever.jpg</thumbnail>
 <fanart>https://assets.papelpop.com/wp-content/uploads/2021/06/a8ccbb74-2b58-458c-a004-f2e54f5391e9.jpeg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:661bc2057e6261f0c265a1790871060b4cadd8ad</link>
+<thumbnail>https://stories.purebreak.com.br/eu-nunca-o-que-queremos-ver-na-3-temporada-netflix/assets/1.jpeg</thumbnail>
+<fanart>https://capricho.abril.com.br/wp-content/uploads/2021/07/eu-nunca-teste-2-temporada.jpg</fanart>
 </item>
