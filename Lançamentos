@@ -1,19 +1,5 @@
 
 
-
-
-___________________________________________________________________________________________________________________________
-
-<item> 
-<title>[COLOR lime][B]FILMES EM ORDEM ALFABÉTICA[/B][/COLOR]</title>  
-<link>.</link>
-<thumbnail>https://i.postimg.cc/VLKQrk44/A-Z.png</thumbnail>
-<fanart>https://i.postimg.cc/s2kRjHKr/images.png</fanart>
-<info>
-[COLOR lime][B]Comentários:[/B][/COLOR] [COLOR white][B]Daqui para baixo os filmes estão adicionados em ordem alfabética.[/B][/COLOR]
-</info>
-</item>
-
 <item> 
 <title>[COLOR white][B]007: Sem Tempo para Morrer[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OJW2V27LQIGSFLNMVBIX4L4FUYF5SQCT$nome=[COLOR white][B]007: Sem Tempo para Morrer[/B][/COLOR][COLOR lime][B] - 1080p[/B][/COLOR]</link>
@@ -3310,6 +3296,19 @@ green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
 [COLOR green][B]Data de Lançamento:[/B][/COLOR] [COLOR white][B]2021[/B][/COLOR]
 </info>
 </item>
+
+<item> 
+<title>[COLOR white][B]Missão: Rússia[/B][/COLOR]</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdb8bff36faf21d99b1fa4eb85e06899cc23f99</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXmeAzaceJk6cg4cxauUKhhXoxt.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/6rtzgHFO3tc/maxresdefault.jpg</fanart>
+<info>
+[COLOR green][B]Ano de Lançamento:[/B][/COLOR] [COLOR white][B]2020[/B][/COLOR]
+[COLOR green][B]Gênero:[/B][/COLOR] [COLOR white][B]Ação[/B][/COLOR] 
+[COLOR green][B]Sinopse:[/B][/COLOR] [COLOR white][B]O ex-militar Nikita é contratado para neutralizar uma grande força de segurança privada em uma fábrica local, para que seu obscuro empregador possa realizar mais uma extorsão. Mas Nikita e seu grupo de mercenários conseguem mais do que esperavam quando descobrem que a fábrica pertence, na verdade, a um perigoso mafioso ligado aos militares russos.[/B][/COLOR]
+</info>
+</item>
+
 
 <item>
 <title>[B][COLOR white]Monster Hunter - 2021[/COLOR][/B]</title>
