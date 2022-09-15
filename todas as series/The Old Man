@@ -1,0 +1,11 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:712bf39a8b228f26d6f37783a4da0d26b9672ca6$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eb5db91f6e5af512b6bb30868c2aea727e3bd62$nome=[COLOR white][B]3° e 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:274d163fb81460b4c7a9ff89af3845fbff0c1dcf$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euYz4adiSHH0GE3YnTeh3uLfBvL.jpg</thumbnail>
+<fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2022/05/17104459/The-Old-man.jpg?fit=1919%2C1079&ssl=1</fanart>
+</item>
