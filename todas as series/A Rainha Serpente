@@ -1,0 +1,11 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40913222418e205b8a249491e79f56166a8b8d9b$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:211712a2febbeddc4026ea4c2a4427614fbfd843$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93c315e20219381aa0e30ea1700f36ec35891a58$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1ZHimZQ8xz8PN7RASXd0Liikivb.jpg</thumbnail>
+<fanart>https://aquitemdiversao.com.br/wp-content/uploads/2022/09/aqui-tem-diversao-the-serpent-queen.jpg</fanart>
+</item>

@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f02a84c2036fc8a55ec21c2ce289bdec8444b2$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:908fe4c703fc632edd2fa475f3d09b7fa3164d47$nome=[COLOR white][B]3° ao 5° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dhdcNOgApEpdwmwtUqWekHRdzwM.jpg</thumbnail>
+<fanart>https://i0.wp.com/cinestera.com.br/wp-content/uploads/2022/07/Candy.jpeg?fit=1280%2C720&ssl=1</fanart>
+</item>
