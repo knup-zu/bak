@@ -1,0 +1,12 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]1° ao 3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZHA32LDCNBXBWQZT62KL6SCCTZ2W37M2$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WW53XHJLDYX44A62R4WDUNP4HPHPPYPM$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AKNLRSJ3PJZDA72ZQ6PSHRCS3K7BU2XY$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
+<fanart>https://i1.wp.com/images.gameswfu.net/star-wars-andor-showrunner-quer-que-a-serie-seja-ponto-de-entrada-para-novos-fas-63276b1984bf4.jpeg</fanart>
+</item>
