@@ -14,10 +14,10 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/r99eEXNKt16oUPYRiLlKlmhz5Df.jpg</thumbnail>
 <fanart>http://spikytv.com/wp-content/uploads/2022/02/The-Cleaning-Lady-Episode-5-Release-Date.jpg</fanart>
 
-
 <item> 
 <title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b694c2a83a7ea58cb4ed14a891a54c6a958a135</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b694c2a83a7ea58cb4ed14a891a54c6a958a135$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AYQFO6ZBJGPNJTB7I6BSONDOUOID64Q$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2022/04/07/1594860332-the-cleaning-lady.jpeg</thumbnail>
 <fanart>https://p2.trrsf.com/image/fget/cf/1200/675/middle/images.terra.com/2022/04/07/1594860332-the-cleaning-lady.jpeg</fanart>
 </item>
