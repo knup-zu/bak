@@ -7,6 +7,15 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559e787081d19c573b53cbe7b114e0eb98f91bd6$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NXZ2YXJXZMAMJWJYSK2733TF563XF2VL$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ODKMCST6ITT3ONAFVF2E3MGE5V7MEJH$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52e0733d56803e550c791531a01a31548209f2f1$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg</thumbnail>
 <fanart>https://hbomax-images.warnermediacdn.com/images/GYOS3IAl-SauiBgEAAAPA/tileburnedin?size=1280x720&partner=hbomaxcom&language=pt-br&host=art-gallery-latam.api.hbo.com&w=1280</fanart>
+</item>
+
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f08190ce8fab9a5d3d916efa49250c16f128deb4$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54a1c98eb6a2b88be7ed58547a9fe6dc07bc7a60$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg</thumbnail>
+<fanart>https://hbomax-images.warnermediacdn.com/images/GYLD3_ArixL1sggEAAAHk/tileburnedin?size=1280x720&partner=hbomaxcom&v=16a21f6b51b4f2fe813eca0a5e863c72&host=art-gallery.api.hbo.com&language=pt-br&w=1280</fanart>
 </item>
