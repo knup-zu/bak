@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4CF2FSPIMEMOR2IHLPNIIVO2MZXBAWCQ$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FVCKREW6XWIOIHQWCIQPVKRRA5DRXFTM$nome=[COLOR white][B]3° e 4° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h5CdOTywSaR17hZygRDlg8xEa30.jpg</thumbnail>
+<fanart>https://hbomax-images.warnermediacdn.com/images/GY5tqbgv7D0G9tAEAAAbV/tileburnedin?size=1280x720&partner=hbomaxcom&v=70f651dc8d8e13caf16dcad98684d047&host=art-gallery.api.hbo.com&language=pt-br&w=1280</fanart>
+</item>
