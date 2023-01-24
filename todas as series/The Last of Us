@@ -1,12 +1,10 @@
 
-
-
 <item> 
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6f9ad9bcec466aeb301e1b105bdf8fafac9e04b$nome=[COLOR white][B]1° Episódio[/B][/COLOR][COLOR lime][B] - Quando Você Estiver Perdido na Escuridão[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56351862a082b1076d7a39157343dec9472ef469$nome=[COLOR white][B]2° Episódio[/B][/COLOR][COLOR lime][B] - Infectados[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]3° Episódio[/B][/COLOR][COLOR lime][B] - Muito Tempo[/B][/COLOR][COLOR white][B] - Lançara dia 29.01[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]4° Episódio[/B][/COLOR][COLOR lime][B] - Por Favor Segure Minha Mão[/B][/COLOR][COLOR white][B] - Lançara dia 05.02[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]4° Episódio[/B][/COLOR][COLOR lime][B] - Por Favor, Segure Minha Mão[/B][/COLOR][COLOR white][B] - Lançara dia 05.02[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]5° Episódio[/B][/COLOR][COLOR lime][B] - Resistir e Sobreviver[/B][/COLOR][COLOR white][B]Lançara dia 12.02[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]6° Episódio[/B][/COLOR][COLOR lime][B] - Parente[/B][/COLOR][COLOR white][B] - Lançara dia 19.02[/B][/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]7° Episódio[/B][/COLOR][COLOR lime][B] - Deixada Para Trás[/B][/COLOR][COLOR white][B] - Lançara dia 26.02[/B][/COLOR]</link>
