@@ -98,7 +98,8 @@
 
 <item> 
 <title>[COLOR white][B]9ª Temporada[/B][/COLOR]</title> 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:180da4aab9b03650d09a6f7d3e95e5905f5303cd</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:180da4aab9b03650d09a6f7d3e95e5905f5303cd$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdb083ebe06d2d3f20038c7fd70f51ecce7adbd2$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
 <thumbnail>https://images.fanart.tv/fanart/the-flash-2014-63d94c6f87198.jpg</thumbnail>
 <fanart>https://images.fanart.tv/fanart/the-flash-2014-63d94dd09d924.jpg</fanart>
 </item>
