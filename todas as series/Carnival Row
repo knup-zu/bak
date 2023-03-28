@@ -4,7 +4,14 @@
 
 <item>
 <title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D7F6410B26235A73A8D1714FB75E0C3AD187E6E&dn=Carnival%20Row%20-%201%c2%aa%20Temporada%20Completa%20%28720p%20-%20WEB-DL%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D7F6410B26235A73A8D1714FB75E0C3AD187E6E</link>
 <thumbnail>https://fanart.tv/fanart/tv/365026/seasonposter/carnival-row-5d7343bbc2fb4.jpg</thumbnail>
 <fanart>https://fanart.tv/fanart/tv/365026/seasonthumb/carnival-row-5d9d972de9b9e.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4HFGCFKM2IQRA3KIJAN3LYUHO36ARUVZ</link>
+<thumbnail>https://images.fanart.tv/fanart/carnival-row-63f28f06d58d8.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/5I3xkJpEd1w/maxresdefault.jpg</fanart>
 </item>
