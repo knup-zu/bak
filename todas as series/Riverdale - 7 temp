@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<layoutype>thumbnail</layoutype>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 01 e 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e547eeeed9ed1b57606a149d53ecb1ffc3b26b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+  
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 02[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485dbb955ed72701d17edb45b94f925487fdde87</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EPISÓDIO -> 03 e 04[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcb3a140b6389b5d54e8972ceffe403d79ff536a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
