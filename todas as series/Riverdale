@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+	<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <layoutype>thumbnail</layoutype>
 
 
@@ -43,6 +43,14 @@
 <item>
 <title>[COLOR white][B]6ª Temporada[/B][/COLOR]</title>
 <externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Riverdale%20-%206%20temp</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white][B]7ª Temporada[/B][/COLOR]</title>
+<externallink>https://raw.githubusercontent.com/knup-zu/bak/main/todas%20as%20series/Riverdale%20-%207%20temp</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rO04Zv7DdQVnudrG5GqZm3vVxla.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/2AyySFf6MSoR7bavBvoBLck2gpo.jpg</fanart>
 </item>
