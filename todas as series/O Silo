@@ -1,0 +1,12 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:632adfc2084726e80d816367636bb740b1cecf41$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df15ef0c2f65cb3cd22532fe03cff2a662c51ba9$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62d471545e39dacbefe7686878ef8e5da0298d9b$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9830d271f0491d38e31d420f0a76b5674e28c356$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j9wyX1KxM9GDH3BRTaAe9MGTldj.jpg</thumbnail>
+<fanart>https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2023/05/silo-apple-tv-critica.jpg?fit=1280%2C720&ssl=1</fanart>
+</item>
