@@ -15,3 +15,15 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iwIdajr5Y4zq2ibvq75VnDAJBr.jpg</thumbnail>
 <fanart>https://quadrinheiros.files.wordpress.com/2022/05/strange-new-worlds-key-art.jpg?w=1200</fanart>
 </item>
+
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1373c9092849ed7dab4032563dea328eb19654eb$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb8bf5bd808c3b611e094467ef353cfbc4151670$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1324540434d278530f4da5754cbb58b24f8980d$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4b8c0222192181d0416dfb637dc8f90068e855$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91e39d78e7e5164403ae69675793a6fc0f3829f3$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<thumbnail>https://images.justwatch.com/poster/305537670/s718/temporada-2.%7Bformat%7D</thumbnail>
+<fanart>https://www.justwatch.com/images/backdrop/305810090/s640/temporada-2</fanart>
+</item>
