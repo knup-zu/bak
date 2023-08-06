@@ -15,9 +15,12 @@
 <fanart>https://cdn.mos.cms.futurecdn.net/4qd9LQxchnFXqRL4niaSMM.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aed84abc225c1c9ea387dc4fc96ad6c99a0055c</link>
+<item> 
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9aed84abc225c1c9ea387dc4fc96ad6c99a0055c$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80eae424a7bed4d3fb6d3110679dafece6df250c$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79ba8833d45775d1496228eeda323089a8ba3dea$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4dafbbecd21fdc6e3e046a03e4a9d1934b78a31$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n1rTxKQkT80ZwG8jIQRxvSDeapo.jpg</thumbnail>
 <fanart>https://cafecomnerd.com.br/wp-content/uploads/2021/10/Fundacao-2-Apple-renova-serie-ficcao-cientifica-baseada-nos-livros-de-Isaac-Asimov-para-uma-segunda-temporada.jpg</fanart>
 </item>
