@@ -1,0 +1,15 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4c0c73c6b2e185e0a8b9ba69f73bc4cf9f117da$nome=[COLOR white][B]1° e 2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ddc7647122b321d36c0c54712154e9ac9833d41$nome=[COLOR white][B]3° e 4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bfa18b6ad7c426ce1717bc47eb9b604181990242$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:445282e194825161a8bcb83d25ac2d94f7261472$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6ab4d84ef80e01871d6bc27e32a948cf30620e7$nome=[COLOR white][B]7° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22427cf01b6884d8165540735e1362c41c0ddbd9$nome=[COLOR white][B]8° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2549cc0c7a34899d8489c192aa95bacbd037c2d$nome=[COLOR white][B]9° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63FFMXDVciOtz8FeLE9DjzNw4eD.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Yb5l67ZnrXo/maxresdefault.jpg</fanart>
+</item>
