@@ -17,7 +17,9 @@
 
 <item>
 <title>[COLOR white][B]2ª Temporada[/B][/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9104bc9c23fcd9c4148225d374fd884d3fcfdb3e</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9104bc9c23fcd9c4148225d374fd884d3fcfdb3e$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:431f5aab1a6e7267fcbe1b9c59442f85f48508d0$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a16332d6b6f1bf405aa0989b67127401943dd69$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
 <thumbnail>https://www.atoupeira.com.br/wp-content/uploads/2023/07/invasao-poster-temporada-2.jpg</thumbnail>
 <fanart>https://macmagazine.com.br/wp-content/uploads/2023/07/072623_Debuts_Trailer_Season_Two_Invasion_Big_Image_01.jpg</fanart>
 </item>
