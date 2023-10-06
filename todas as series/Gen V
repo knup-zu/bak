@@ -1,0 +1,10 @@
+<layoutype>thumbnail</layoutype>
+
+
+<item> 
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea07d15aed527ea21a34a16227d33799716bbb4a$nome=[COLOR white][B]1° ao 3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c20a7f7a18c3d3c9f67999c99b3c2f4955e37d$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wGOV8WrYzHKYt9lMrSGzxVAlfqL.jpg</thumbnail>
+<fanart>https://www.justgeek.fr/wp-content/uploads/2023/09/Gen-V-serie-amazon-prime-video.webp</fanart>
+</item>
