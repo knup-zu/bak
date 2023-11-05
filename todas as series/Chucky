@@ -27,3 +27,15 @@
 <thumbnail>https://trilhadomedo.com/wp-content/uploads/2022/07/Chucky-retorna-em-outubro-e-2a-temporada-ganha-teaser-trailer-e-poster.jpg</thumbnail>
 <fanart>https://elcomercio.pe/resizer/6G1zMZlq0kZbUBFdR1t6MKPns6w=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/WKTJTUUIVRBSNHDBSOW3UDVFLA.jpg</fanart>
 </item>
+
+<item> 
+<title>[COLOR white][B]3ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d712ec141a5daf0b6f68fc224ded3a7a13d70a6f$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a64422727951d828bb57b22991be6ccb39bbaad2$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3777f7fd961d5cb533c2613daf8be0b10b8f198$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ba53cfc8d161e36d3321c63afeeb5130b33972a$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/fvQilhkvaMQ/maxresdefault.jpg</fanart>
+</item>
