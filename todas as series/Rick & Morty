@@ -56,3 +56,15 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg</thumbnail>
 <fanart>https://sm.ign.com/ign_br/screenshot/default/rick-and-morty-6_xshv.jpg</fanart>
 </item>
+
+<item> 
+<title>[COLOR white][B]7ª Temporada[/B][/COLOR]</title> 
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f6eadfc69298fa764e1a981c1fa34489aac82e1$nome=[COLOR white][B]1° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed124c77cb20d1e7b825977fc03c38b6de5ed087$nome=[COLOR white][B]2° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59aa2539dfef8747e224ea9cc4d9224d38a1a877$nome=[COLOR white][B]3° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]4° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]5° Episódio[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome=[COLOR white][B]6° Episódio[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvhNj9eoRBe5SxjCbQTkh05UP5K.jpg</thumbnail>
+<fanart>https://sm.ign.com/ign_br/screenshot/default/rick-and-morty-6_xshv.jpg</fanart>
+</item>
